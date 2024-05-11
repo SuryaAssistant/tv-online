@@ -1,0 +1,187 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #272829;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+.primecolor{
+  color: #071332;
+}
+
+.whitecolor{
+  color: #efefef !important;
+}
+
+.primebackground{
+  background-color: #071332 !important;
+}
+
+.btn-primary{
+  background-color: #efefef !important;
+  color: #071332 !important;
+  border-color: #efefef !important;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.btn-secondary{
+  background-color: transparent !important;
+  color: #efefef !important;
+  border-color: #efefef !important;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+.hr-title{
+  margin-left: 30% !important; 
+  margin-right: 30% !important; 
+  height: 5px !important;
+  border-radius: 10px !important;
+  border-color: #071332 !important;
+  background-color: #071332 !important;
+  border-color: #071332 !important;
+  opacity: 1 !important;
+  margin-top: 20px !important;
+  margin-bottom: 40px !important;
+}
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+#header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 9997;
+  transition: all 0.5s;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+@media (max-width: 992px) {
+  #header {
+    width: 300px;
+    background: #fff;
+    border-right: 1px solid #e6e9ec;
+    left: -300px;
+  }
+}
+
+@media (min-width: 992px) {
+  #main {
+    margin-left: 0px;
+  }
+}
+
+/*--------------------------------------------------------------
+# Responsive Video Streaming
+--------------------------------------------------------------*/
+
+
+/* Custom CSS for centering iframe */
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh; /* Ensure full height within the column */
+}
+
+.channel-slide {
+  background-color: #fff;
+  border-radius: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.channel-slide:hover {
+  background-color: #f1f1f1;
+  border-radius: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.selected-list{
+  border: 5px solid #57E4FF;
+}
+
+.card-img-top {
+  margin-top:10px;
+  margin-bottom:10px;
+  height: 8vw;
+  object-fit: contain;
+}
+
+.card-body{
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+  padding-left:5px !important;
+  padding-right: 5px !important;
+}
+
+.card-title{
+  color: #272829;
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: .25 !important;
+}
+
+.card-text{
+  color: #071332;
+  font-size: 12px;
+}
+
+div.scroll {
+  margin-left:20px;
+  margin-right: 20px;
+  height: 85vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: justify;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #071332;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+  border-radius: 10px;
+}
+
+/*--------------------------------------------------------------
+# Navbar
+--------------------------------------------------------------*/
+.navbar{
+  background-color: #071332 !important;
+  height: 10vh;
+}
+
+.navbar-brand{
+  margin-right: 0px !important;
+}
+
+.active-nav{
+  background-color: #fff !important;
+  border-radius: 10px;
+}
+
+.active-nav-text{
+  color: #071332 !important;
+  font-weight: bold;
+}
