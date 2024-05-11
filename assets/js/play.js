@@ -38,7 +38,7 @@ function play(channelID){
     </div>
 
     <!-- TV Location and type -->
-    <p>
+    <p style="font-size:12px;">
       <i class='bx bxs-map'></i> ${channel["tv-loc"]}
       <br>
       <i class='bx bx-tv'></i> ${channel["tv-type"]}
