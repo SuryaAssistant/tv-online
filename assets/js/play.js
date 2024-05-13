@@ -1,4 +1,6 @@
 function play(channelID){
+  nowPlaying = channelID;
+  
   let channel = tvList[0].tvlist[channelID];
 
   document.getElementById("amenu0").innerHTML = `Back`;
@@ -15,7 +17,6 @@ function play(channelID){
           src="${channel["tv-streaming"]}"
           frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen; web-share; speaker-selection;screen-wake-lock;idle-detection"
-          allowfullscreen
         ></iframe>
       </div>
     </div>
@@ -25,24 +26,27 @@ function play(channelID){
   <div class="row" style="padding-top:20px">
     <div class="col">
 
-    <!-- TV Censorship alert -->
-    <!--
-    <div class="alert alert-primary" role="alert">
-      ${channel["tv-desc"]}
-    </div>
-    -->
+      <!-- TV Censorship alert -->
+      <!--
+      <div class="alert alert-primary" role="alert">
+        ${channel["tv-desc"]}
+      </div>
+      -->
 
-    <!-- TV description -->
-    <div class="alert alert-primary" role="alert">
-      ${channel["tv-desc"]}
-    </div>
+      <!-- TV description -->
+      <div class="alert alert-primary" role="alert">
+        ${channel["tv-desc"]}
+      </div>
 
-    <!-- TV Location and type -->
-    <p style="font-size:12px;">
-      <i class='bx bxs-map'></i> ${channel["tv-loc"]}
-      <br>
-      <i class='bx bx-tv'></i> ${channel["tv-type"]}
-    </p>
+      <!-- TV Location and type -->
+      <!--
+      <p style="font-size:12px;">
+        <i class='bx bxs-map'></i> ${channel["tv-loc"]}
+        <br>
+        <i class='bx bx-tv'></i> ${channel["tv-type"]}
+      </p>
+      -->
+
     </div>
   </div>
   `;
