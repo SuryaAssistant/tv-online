@@ -23,6 +23,16 @@ let channelPos = 0;
 
 // This variable is used to know if stream is played or not 
 let isPlay = false;
+let nowPlaying = 0;
+
+
+function scrollToElementById(elementId) {
+  const element = document.getElementById(elementId);
+
+  if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+}
 
 
 

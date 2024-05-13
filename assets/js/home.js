@@ -26,7 +26,14 @@ function displayHome(){
             <img src="${listNow["tv-logo"]}" class="card-img-top" alt="${listNow["tv-name"]}">
             <div class="card-body">
               <h5 class="card-title">${listNow["tv-name"]}</h5>
-              <p class="card-text">${listNow["tv-loc"]}</p>
+              <div class="row">
+                <div class="col-md">
+                  <p class="card-text"><i class='bx bxs-map'></i> ${listNow["tv-loc"]}</p>
+                </div>
+                <div class="col-md">
+                  <p class="card-text"><i class='bx bxs-tv'></i> ${listNow["tv-type"]}</p>
+                </div>
+              </div>
             </div>     
           </div>
         `;
@@ -36,4 +43,7 @@ function displayHome(){
 
   // Add border to selected channel
   //updateChannel(prevChannelPos, channelPos);
+
+  // Go to ID
+  scrollToElementById("list" + String(nowPlaying));
 }
