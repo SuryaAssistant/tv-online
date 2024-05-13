@@ -4,7 +4,7 @@
       "tv-name" : "Indosiar TV",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Indosiar adalah saluran televisi nasional yang dimiliki oleh Surya Citra Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/indosiar"
@@ -13,7 +13,7 @@
       "tv-name" : "RCTI",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "RCTI adlah saluran televisi nasional yang dimiliki oleh MNC Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/200px-RCTI_logo_2015.svg.png",
       "tv-streaming" : "https://useetvwv.visionplus.id/playing/channels/2"
@@ -22,16 +22,16 @@
       "tv-name" : "ABC News Australia",
       "tv-loc" : "Australia",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "ABC News adalah layanan berita publik dari Australian Broadcasting Corporation yang berlokasi di Sydney, New South Wales, Australia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/250px-ABC_News_Channel.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/abc-news-au"
     },
     {
       "tv-name" : "ABC News",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "ABC News adalah saluran televisi berita dari American Broadcasting Company dan merupakan bagian dari Disney Entertaiment.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/220px-ABC_News_logo_2021.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/abc-news-us"
@@ -40,7 +40,7 @@
       "tv-name" : "ABC Plus Australia",
       "tv-loc" : "Australia",
       "tv-lang" : "Inggris",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "ABC Plus adalah saluran televisi free-to-air dari Australia yang dimiliki oleh Australian Broadcasting Corporation.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/100px-ABC_TV_Plus_logo_2021.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/abc-plus-au"
@@ -49,7 +49,7 @@
       "tv-name" : "ABC TV Japan",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Asahi Broadcasting Corporation (ABC) TV adalah saluran televisi hiburan berbahasa jepang milik Asahi Broadcasting Group Holdings Corporation.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/180px-Asahi_Broadcasting_Corporation_Logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/abc-tv-asahi"
@@ -58,7 +58,7 @@
       "tv-name" : "ABN TV",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "ABN atau Areum Broadcasting Network adalah televisi kabel yang berbasis di Seongnam, Gyeonggi, Korea Selatan.",
       "tv-logo" : "https://www.abn.co.kr/resources/images/logo.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/abn-tv-kr"
@@ -67,7 +67,7 @@
       "tv-name" : "ANN News",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "ANN atau All-Nippon News Network adalah jaringan televisi komersial yang dijalankan oleh TV Asahi Corporation (TV Asahi) yang berbasis di Tokyo.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/220px-ANN_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/ann"
@@ -76,7 +76,7 @@
       "tv-name" : "Mystery Channel",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Mystery Channel adalah saluran film dan drama bergenre misteri yang menampilkan berbagai film dari seluruh dunia dalam bahasa Jepang.",
       "tv-logo" : "https://www.starcat.co.jp/ch/upload/channel/13/mystery_logo.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/mystery-channel"
@@ -85,7 +85,7 @@
       "tv-name" : "AXN TV Indonesia",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris, Indonesia",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "AXN adalah saluran hiburan bergenre aksi milik KC Global Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/axn"
@@ -94,7 +94,7 @@
       "tv-name" : "Abu Dhabi TV",
       "tv-loc" : "UEA",
       "tv-lang" : "UEA",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Abu Dhabi TV adalah saluran televisi dari Uni Emirate Arab yang menampilkan berbagai berita dalam basaha Arab.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Abu_Dhabi_TV.png/200px-Abu_Dhabi_TV.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/abu-dhabi-tv"
@@ -103,7 +103,7 @@
       "tv-name" : "Abu Dhabi Sports 1",
       "tv-loc" : "UEA",
       "tv-lang" : "UEA",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Abu Dhabi Sport adalah saluran olahraga dari Uni Emirates Arab yang dimiliki oleh Abu Dhabi Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/220px-Abu_Dhabi_Sports_logo_2023.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/abu-dhabi-sports-1"
@@ -112,7 +112,7 @@
       "tv-name" : "Abu Dhabi Sports 2",
       "tv-loc" : "UEA",
       "tv-lang" : "UEA",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Abu Dhabi Sport adalah saluran olahraga dari Uni Emirates Arab yang dimiliki oleh Abu Dhabi Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/220px-Abu_Dhabi_Sports_logo_2023.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/abu-dhabi-sports-2"
@@ -121,7 +121,7 @@
       "tv-name" : "Al Jazeera English",
       "tv-loc" : "Qatar",
       "tv-lang" : "English",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "Al Jazeera English adalah saluran berita 24 jam yang dimiliki oleh Al Jazeera Media Network yang disiarakan dalam bahasa Inggris.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/UCNye-wNBqNL5ZzHSJj3l8Bg"
@@ -130,7 +130,7 @@
       "tv-name" : "Alkass One",
       "tv-loc" : "Qatar",
       "tv-lang" : "Arabic",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Alkass adalah saluran olahraga dari Qatar yang menampilkan berbagai olahraga dari seluruh wilayah semenanjung arab.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/alkass-1"
@@ -139,7 +139,7 @@
       "tv-name" : "Alkass Two",
       "tv-loc" : "Qatar",
       "tv-lang" : "Arabic",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Alkass adalah saluran olahraga dari Qatar yang menampilkan berbagai olahraga dari seluruh wilayah semenanjung arab.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/alkass-2"
@@ -148,7 +148,7 @@
       "tv-name" : "Alkass Three",
       "tv-loc" : "Qatar",
       "tv-lang" : "Arabic",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Alkass adalah saluran olahraga dari Qatar yang menampilkan berbagai olahraga dari seluruh wilayah semenanjung arab.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/alkass-3"
@@ -157,7 +157,7 @@
       "tv-name" : "Alkass Four",
       "tv-loc" : "Qatar",
       "tv-lang" : "Arabic",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Alkass adalah saluran olahraga dari Qatar yang menampilkan berbagai olahraga dari seluruh wilayah semenanjung arab.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/alkass-4"
@@ -166,7 +166,7 @@
       "tv-name" : "Anhui TV",
       "tv-loc" : "China",
       "tv-lang" : "Mandarin",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Anhui TV (AHTV) adalah saluran hiburan dari china yang berlokasi di Hefei dan Anhui dan disiarkan dalam bahasa Mandarin.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Anhui_Television.png/120px-Anhui_Television.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/anhui-tv"
@@ -175,7 +175,7 @@
       "tv-name" : "AniPlus Indonesia",
       "tv-loc" : "Singapura",
       "tv-lang" : "Jepang",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Aniplus adlah saluran televisi milik Aniplus Inc. yang menampilkan berbagai anime dengan subtitle Indonesia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/aniplus"
@@ -184,7 +184,7 @@
       "tv-name" : "Animal Planet Japan",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Dokumenter TV",
+      "tv-type" : "Dokumenter",
       "tv-desc" : "Animal planet adalah saluran televisi yang menampilkan berbagai series dan dokumentasi tentang hewan liar hingga hewan peliharaan.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/animal-planet-jp"
@@ -193,7 +193,7 @@
       "tv-name" : "Animax TV Indonesia",
       "tv-loc" : "Singapura",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Animax Adalah saluran hiburan milik KC Global Media yang menampilkan berbagai anime dengan subtitle Indonesia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/250px-Animax_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/animax"
@@ -202,16 +202,16 @@
       "tv-name" : "Arirang TV",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Arirang TV adalah saluran televisi milik Arirang International Broadcasting yang menyiarkan hiburan, budaya, ekonomi hingga situasi di Korea Selatan.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/250px-Arirang.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/arirang-tv"
     },
     {
       "tv-name" : "Asian Food Network",
-      "tv-loc" : "Singapore",
+      "tv-loc" : "Singapura",
       "tv-lang" : "English",
-      "tv-type" : "Lifestyle TV",
+      "tv-type" : "Lifestyle",
       "tv-desc" : "Asian Food Network (AFN) adalah saluran televisi milik Warner Bros. Discovery Asia-Pacific yang menampilkan berbagai konten masakan asia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/afn-asian-food-network"
@@ -220,7 +220,7 @@
       "tv-name" : "Astro Awani",
       "tv-loc" : "Malaysia",
       "tv-lang" : "Malaysia",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "Astro Awani adalah saluran televisi berita dari Malaysia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Astro_Awani_501.png/220px-Astro_Awani_501.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/astro-awani"
@@ -229,7 +229,7 @@
       "tv-name" : "Astro Supersport 1",
       "tv-loc" : "Malaysia",
       "tv-lang" : "Malaysia",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Astro Supersport adalah saluran televisi dari malaysia yang menghadirkan berbagai konten olahraga selama 24 jam.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/astro-supersport"
@@ -238,7 +238,7 @@
       "tv-name" : "Astro Supersport 2",
       "tv-loc" : "Malaysia",
       "tv-lang" : "Malaysia",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Astro Supersport adalah saluran televisi dari malaysia yang menghadirkan berbagai konten olahraga selama 24 jam.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/astro-supersport-2"
@@ -247,7 +247,7 @@
       "tv-name" : "Astro Supersport 3",
       "tv-loc" : "Malaysia",
       "tv-lang" : "Malaysia",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Astro Supersport adalah saluran televisi dari malaysia yang menghadirkan berbagai konten olahraga selama 24 jam.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/astro-supersport-3"
@@ -256,7 +256,7 @@
       "tv-name" : "Astro Supersport 4",
       "tv-loc" : "Malaysia",
       "tv-lang" : "Malaysia",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Astro Supersport adalah saluran televisi dari malaysia yang menghadirkan berbagai konten olahraga selama 24 jam.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/astro-supersport-4"
@@ -265,7 +265,7 @@
       "tv-name" : "BBC Earth",
       "tv-loc" : "Britania Raya",
       "tv-lang" : "Inggris",
-      "tv-type" : "Dokumenter TV",
+      "tv-type" : "Dokumenter",
       "tv-desc" : "BBC Earth adalah saluran milik Pemerintah Britania Raya melalui BBC yang menampilkan berbagai dokumenter yang berkaitan dengan alam.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bbc-earth"
@@ -274,7 +274,7 @@
       "tv-name" : "BBC News",
       "tv-loc" : "Britania Raya",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "BBC News adalah saluran milik pemerintah Britania Raya yang menampikan berita dari Inggris dan seluruh dunia selama 24 jam.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bbc-world-news"
@@ -283,25 +283,25 @@
       "tv-name" : "BBC CBeebies",
       "tv-loc" : "Britania Raya",
       "tv-lang" : "Inggris, Indonesia",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "CBeebies adalah saluran anak-anak milik Pemerintah Britania Raya yang disiarkan melalui BBC.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/230px-CBeebies_2023.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cbeebies"
     },
     {
       "tv-name" : "BEK Sports East",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "BEK Sports adalah saluran televisi dari Amerika Serikat yang menghadirkan berita mengenai olahraga di Amerika Serikat.",
       "tv-logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPha7Mqo_NrIXjeXSwkxqfH4dJpkLHK9ZBl0E63DZGJiEu1mzi-3RctNJB1Vtgsjfi7Dc&usqp=CAU",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bek-sport-east"
     },
     {
       "tv-name" : "BEK Sports West",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "BEK Sports adalah saluran televisi dari Amerika Serikat yang menghadirkan berita mengenai olahraga di Amerika Serikat.",
       "tv-logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPha7Mqo_NrIXjeXSwkxqfH4dJpkLHK9ZBl0E63DZGJiEu1mzi-3RctNJB1Vtgsjfi7Dc&usqp=CAU",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bek-sport-west"
@@ -310,7 +310,7 @@
       "tv-name" : "BS Asahi TV",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bs-asahi-tv"
@@ -319,7 +319,7 @@
       "tv-name" : "BS Nihon Eiga TV",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "BS Nihon Eiga TV adalah saluran televisi yang menampilkan berbagai film dan drama Jepang.",
       "tv-logo" : "https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/260.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bs-nihon-eiga"
@@ -328,7 +328,7 @@
       "tv-name" : "BS TBS TV",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "BS-TBS adalah sebuah stasiun televisi di Jepang yang dimiliki oleh Tokyo Broadcasting System (TBS) dengan menawarkan program drama, film, dokumenter, dan program hiburan lainnya.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/220px-BS-TBS_2020.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bs-tbs-tv"
@@ -337,7 +337,7 @@
       "tv-name" : "BS TV Tokyo",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "BS TV Tokyo adalah saluran televisi berlangganan yang dioperasikan oleh TV Tokyo Corporation dengan menwarkan program drama, variety shows, anime, dokumenter hingga berita dan informasi.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/3/39/BSTVTokyo_2024logo-TeletoVer.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bs-tv-tokyo"
@@ -346,7 +346,7 @@
       "tv-name" : "BS11 Eleven TV",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "BS11 Eleven adalah saluran televisi berlangganan yang dimiliki oleh Nippon BS Broadcasting Corp. yang menawarkan beragam program hiburan termasuk drama, variety shows, anime, dokumenter, serta berita dan informasi.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/150px-BS11_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bs11-eleven"
@@ -355,7 +355,7 @@
       "tv-name" : "Berita RTM TV",
       "tv-loc" : "Malaysia",
       "tv-lang" : "Malaysia",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "Berita RTM adalah saluran berita milik Pemerintah Malaysia yang menyuguhkan berita dari Malaysia dan sekitarnya.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/200px-Logo_Berita_RTM.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/berita-rtm"
@@ -364,7 +364,7 @@
       "tv-name" : "Bernama TV",
       "tv-loc" : "Malaysia",
       "tv-lang" : "Malaysia",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "Bernama TV adalah saluran televisi dari Pemerintah Malaysia yang menyampaikan berbagai kejadian yang terjadi di Malaysia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/150px-Bernama_TV.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bernama-tv"
@@ -373,7 +373,7 @@
       "tv-name" : "Bioskop Indonesia",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Bioskop Indonesia adalah saluran televisi yang dijalankan oleh Transvision dengan memberikan suguhan film-film produksi Indonesia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bioskop-indonesia"
@@ -382,7 +382,7 @@
       "tv-name" : "Bloomberg Asia",
       "tv-loc" : "Hongkong",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "Bloomberg adalah saluran berita milik Bloomberg L.P. yang berfokus pada bisnis dan finansial.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-asia-btv"
@@ -391,7 +391,7 @@
       "tv-name" : "Bloomberg Australia",
       "tv-loc" : "Australia",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "Bloomberg adalah saluran berita milik Bloomberg L.P. yang berfokus pada bisnis dan finansial.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-australia-btv"
@@ -400,25 +400,25 @@
       "tv-name" : "Bloomberg Europe",
       "tv-loc" : "Britania Raya",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "Bloomberg adalah saluran berita milik Bloomberg L.P. yang berfokus pada bisnis dan finansial.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-europe-btv"
     },
     {
       "tv-name" : "Bloomberg US",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "Bloomberg adalah saluran berita milik Bloomberg L.P. yang berfokus pada bisnis dan finansial.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-us-btv"
     },
     {
       "tv-name" : "Bloomberg US +",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "Bloomberg adalah saluran berita milik Bloomberg L.P. yang berfokus pada bisnis dan finansial.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-us-btv-plus"
@@ -427,7 +427,7 @@
       "tv-name" : "CBC News",
       "tv-loc" : "Kanada",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "CBC News adalah saluran berita nasional Kanada yang menghadirkan berbagai pertistiwa terkini yang terjadi di Kanada. ",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/6/67/CBC_Logo_1992-Present.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/UCuFFtHWoLl5fauMMD5Ww2jA"
@@ -436,7 +436,7 @@
       "tv-name" : "Celestial Classic Movies",
       "tv-loc" : "Hongkong",
       "tv-lang" : "Mandarin, Kanton",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Celestial Classic Movies (CCM) adalah saluran film milik Celestial Tiger Entertaiment yang menampilkan berbagai film jadul dari Asia Timur.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/celestial-classic-movies"
@@ -445,7 +445,7 @@
       "tv-name" : "Celestial Movies",
       "tv-loc" : "Hongkong",
       "tv-lang" : "Mandarin, Kanton, Korea, Jepang",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Celestial Movies adalah saluran film milik Celestial Tiger Entertaiment yang menampilkan berbagai film dari Asia Timur.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/8/8a/Celestial_Movies.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/celestial-movies"
@@ -454,7 +454,7 @@
       "tv-name" : "CCTV-1",
       "tv-loc" : "China",
       "tv-lang" : "Mandarin",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "China Central Television 1 (CCTV-1) adalah saluran televisi milik Pemerintah Tiongkok yang menampilkan berbagai macam konten hiburan.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/f/f6/CCTV-1_Logo.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv1"
@@ -463,7 +463,7 @@
       "tv-name" : "CCTV-2",
       "tv-loc" : "China",
       "tv-lang" : "Mandarin",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "China Central Television 2 (CCTV-2) adalah saluran televisi milik Pemerintah Tiongkok yang berfokus pada keuangan.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv2"
@@ -472,7 +472,7 @@
       "tv-name" : "CCTV-3",
       "tv-loc" : "China",
       "tv-lang" : "Mandarin",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "China Central Television 3 (CCTV-3) adalah saluran televisi milik Pemerintah Tiongkok yang berfokus pada seni dan hiburan.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/3/3c/CCTV-3_%E7%BB%BC%E8%89%BA.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv3"
@@ -481,7 +481,7 @@
       "tv-name" : "CCTV-4",
       "tv-loc" : "China",
       "tv-lang" : "China",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "China Central Television 4 (CCTV-4) adalah saluran televisi internasional milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv4"
@@ -490,7 +490,7 @@
       "tv-name" : "CCTV-5",
       "tv-loc" : "China",
       "tv-lang" : "Mandarin",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "China Central Television 5 (CCTV-5) adalah saluran penyiaran olahraga milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/5/59/CCTV-5_%E4%BD%93%E8%82%B2.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv5"
@@ -499,7 +499,7 @@
       "tv-name" : "CCTV-5+",
       "tv-loc" : "China",
       "tv-lang" : "Mandarin",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "China Central Television 5+ (CCTV-5+) adalah saluran penyiaran olahraga milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/e/e2/Cctv-5%2B.jpeg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv5-plus"
@@ -508,7 +508,7 @@
       "tv-name" : "CCTV-6",
       "tv-loc" : "China",
       "tv-lang" : "Mandarin",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "China Central Television 6 (CCTV-6) adalah saluran penyiaran film milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/2/24/CCTV-6_%E7%94%B5%E5%BD%B1.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv6"
@@ -517,7 +517,7 @@
       "tv-name" : "CCTV-7",
       "tv-loc" : "China",
       "tv-lang" : "Mandarin",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "China Central Television 7 (CCTV-7) adalah saluran penyiaran berita seputar pertahanan nasional dan militer milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/d/db/CCTV-7_%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv7"
@@ -526,7 +526,7 @@
       "tv-name" : "CCTV-8",
       "tv-loc" : "China",
       "tv-lang" : "China",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "China Central Television 8 (CCTV-8) adalah saluran penyiaran series drama milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/7/76/CCTV-8_%E7%94%B5%E8%A7%86%E5%89%A7.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv8"
@@ -535,7 +535,7 @@
       "tv-name" : "CCTV-9",
       "tv-loc" : "China",
       "tv-lang" : "Mandarin",
-      "tv-type" : "Dokumenter TV",
+      "tv-type" : "Dokumenter",
       "tv-desc" : "China Central Television 9 (CCTV-9) adalah saluran penyiaran berbagai dokumenter milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/c/cf/CCTV-9_%E7%BA%AA%E5%BD%95.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv9"
@@ -544,7 +544,7 @@
       "tv-name" : "CCTV-13",
       "tv-loc" : "China",
       "tv-lang" : "Mandarin",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "China Central Television 13 (CCTV-13) adalah saluran penyiaran berita milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/4/4b/CCTV-13_%E6%96%B0%E9%97%BB.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv13"
@@ -553,7 +553,7 @@
       "tv-name" : "CCTV-14",
       "tv-loc" : "China",
       "tv-lang" : "Mandarin",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "China Central Television 14 (CCTV-14) adalah saluran penyiaran khusus anak-anak milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/4/40/CCTV-14_%E5%B0%91%E5%84%BF.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv14"
@@ -562,7 +562,7 @@
       "tv-name" : "CCTV-15",
       "tv-loc" : "China",
       "tv-lang" : "China",
-      "tv-type" : "Music TV",
+      "tv-type" : "Music",
       "tv-desc" : "China Central Television 15 (CCTV-15) adalah saluran penyiaran khusus musik milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/4/46/CCTV-15_%E9%9F%B3%E4%B9%90.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cctv15"
@@ -571,7 +571,7 @@
       "tv-name" : "CGTN TV",
       "tv-loc" : "China",
       "tv-lang" : "Inggris, Mandarin",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "China Global Television Network (CGTN) adalah saluran televisi berita internasional yang dioperasikan oleh China Centeral Television (CCTV)",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/8/81/CGTN.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cgtn"
@@ -580,7 +580,7 @@
       "tv-name" : "CGTN Documentary",
       "tv-loc" : "China",
       "tv-lang" : "Inggris, Mandarin",
-      "tv-type" : "Dokumenter TV",
+      "tv-type" : "Dokumenter",
       "tv-desc" : "CGTN Documentary adalah saluran yang menyajikan dokumenter bersejarah milik China Global Television Network",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cgtn-documentary"
@@ -589,7 +589,7 @@
       "tv-name" : "CNBC Asia",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "CNBC Asia adalah saluran konsumen berita bisnis di asia di bawah pengawasan NBC Universal dan dikontrol oleh CNBC",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cnbc"
@@ -598,16 +598,16 @@
       "tv-name" : "CNBC Indonesia",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "CNBC Indonesia adalah saluran televisi berita bisnis di Indonesia yang dioperasikan oleh Trans Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cnbc-indonesia"
     },
     {
       "tv-name" : "CNN",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "CNN adalah saluran berita 24 jam dari Amerika Serikat. ",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cnn"
@@ -616,7 +616,7 @@
       "tv-name" : "CNN Indonesia",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "CNN Indonesia adalah saluran berita 24 jam berbahasa Indonesia yang dioperasikan oleh Trans Media dengan menyajikan konten lokal dan internasional.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cnn-indonesia"
@@ -625,7 +625,7 @@
       "tv-name" : "Cartoon Network Indonesia",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "Cartoon Network adalah saluran televisi Asia yang menyiarkan serial animasi.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-network-asia"
@@ -634,7 +634,7 @@
       "tv-name" : "Cartoon Network Japan",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "Cartoon Network adalah saluran televisi Asia yang menyiarkan serial animasi.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-network-jp"
@@ -643,7 +643,7 @@
       "tv-name" : "Cartoon TV",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "Cartoon TV adalah saluran berisi kartun tanpa dialog yang ditujukan untuk anak usia di bawah 4 tahun.",
       "tv-logo" : "https://www.transvision.co.id/img/channel/new/CARTOON%20TV.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-tv"
@@ -652,7 +652,7 @@
       "tv-name" : "Cartoon TV Classic",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "Cartoon TV Classis adalah saluran berisi kartun jadul yang ditujukan untuk anak-anak.",
       "tv-logo" : "https://www.transvision.co.id/img/channel/new/CARTOON%20TV.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-tv-classic"
@@ -661,7 +661,7 @@
       "tv-name" : "Cartoon TV Premium",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "Cartoon TV Premium adalah saluran berisi kartun dengan dialog yang ditujukan untuk anak usia di bawah 5 tahun.",
       "tv-logo" : "https://www.transvision.co.id/img/channel/new/CARTOON%20TV.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-tv-premium"
@@ -670,25 +670,25 @@
       "tv-name" : "Channel 5 TV",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Channel 5 adalah saluran televisi terestrial dari Singapura yang menyajikan hiburan dan berita dalam bahasa Inggris.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/220px-Mediacorp_Channel_5_2023.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/channel-5"
     },
     {
       "tv-name" : "Channel 8 TV",
-      "tv-loc" : "Singapore",
+      "tv-loc" : "Singapura",
       "tv-lang" : "Mandarin",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Channel 8 adalah saluran televisi terestrial dari Singapura yang menyajikan hiburan dan berita dalam bahasa Mandarin.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/220px-Mediacorp_Channel_8_2023.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/channel-8"
     },
     {
       "tv-name" : "Channel U TV",
-      "tv-loc" : "Singapore",
+      "tv-loc" : "Singapura",
       "tv-lang" : "Inggris, Mandarin",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Channel U adalah saluran televisi terestrial dari Singapura yang menyajikan hiburan yang ditujukan untuk anak muda.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/200px-Mediacorp_Channel_U_2023.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/channel-u"
@@ -697,7 +697,7 @@
       "tv-name" : "Channel A TV",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Channel A adalah saluran televisi kabel dari Korea Selatan yang menyajikan berbagai hiburan berupa serial drama Korea.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Channel_A_Logo_transparent.png/220px-Channel_A_Logo_transparent.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/channel-a"
@@ -706,7 +706,7 @@
       "tv-name" : "CNA",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "CNA adalah saluran berita dari Singapura yang menyajikan berbagai berita yang terjadi di Asia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cna"
@@ -715,7 +715,7 @@
       "tv-name" : "Cinemachi TV",
       "tv-loc" : "Britania Raya",
       "tv-lang" : "Inggris",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Cinemachi adalah saluran televisi yang menampilkan berbagai film Hollywood dan studio film ternama lainnya.",
       "tv-logo" : "https://www.mncvision.id/userfiles/image/channel/channel_7.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi"
@@ -724,7 +724,7 @@
       "tv-name" : "Cinemachi Action",
       "tv-loc" : "Britania Raya",
       "tv-lang" : "Inggris",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Cinemachi Action adalah saluran film bergenre aksi dari berbagai studio film ternama.",
       "tv-logo" : "https://www.mncvision.id/userfiles/image/channel/channel_8.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi-action"
@@ -733,7 +733,7 @@
       "tv-name" : "Cinemachi Xtra",
       "tv-loc" : "Britania Raya",
       "tv-lang" : "Inggris",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Cinemachi Xtra adalah saluran film milik Mimyuni Media Entertaiment yang menampilkan berbagai film Holywood",
       "tv-logo" : "https://www.mncvision.id/userfiles/image/channel/channel_6.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi-xtra"
@@ -742,7 +742,7 @@
       "tv-name" : "Cinemachi Kids",
       "tv-loc" : "Britania Raya",
       "tv-lang" : "Inggris",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Cinemachi Kids adalah saluran khusus anak-anak milik Mimyuni Media Entertaiment.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/a/ac/Cinemachi_kids_logo.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi-kids"
@@ -751,7 +751,7 @@
       "tv-name" : "Cinemax",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Cinemax adalah saluran televisi berbayar yang menyajikan film bergenre aksi, horor hingga komedi.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/cinemax"
@@ -760,7 +760,7 @@
       "tv-name" : "Citra Drama",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Citra Drama adalah saluran televisi dari Emtek yang menyajikan berbagai film lokal.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/7/74/Citra_Drama_Logo_September_2019.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/citra-drama-tv"
@@ -769,7 +769,7 @@
       "tv-name" : "Crime + Investigation",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris",
-      "tv-type" : "Dokumenter TV",
+      "tv-type" : "Dokumenter",
       "tv-desc" : "Crime + Investigation adalah saluran dokumenter kriminal, investigasi dan misteri.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Crime_and_Investigation_logo.png/200px-Crime_and_Investigation_logo.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/crime-investigation"
@@ -778,7 +778,7 @@
       "tv-name" : "DW English",
       "tv-loc" : "Jerman",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "DW adalah saluran televisi yang berfokus pada berita dan informasi dari Jerman dengan bahasa Inggris.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/dw-english"
@@ -787,7 +787,7 @@
       "tv-name" : "Discovery Indonesia",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Discovery adalah saluran televisi berbayar dari Amerika yang menyediakan tayangan dokumenter sains, teknologi dan sejarah.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/discovery"
@@ -796,16 +796,16 @@
       "tv-name" : "Discovery Australia",
       "tv-loc" : "Australia",
       "tv-lang" : "Inggris",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Discovery adalah saluran televisi berbayar dari Amerika yang menyediakan tayangan dokumenter sains, teknologi dan sejarah.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/UCsnsCFJMPIJaUSVP_hLVUCA"
     },
     {
       "tv-name" : "Discovery Turbo",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "Inggris",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Discovery adalah saluran televisi berbayar dari Amerika yang menyediakan tayangan olahraga.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/discovery-turbo"
@@ -814,7 +814,7 @@
       "tv-name" : "DreamWorks Channel",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris, Indonesia",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "DreamWorks Channel adalah saluran televisi yang menyediakan berbagai animasi untuk anak-anak.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/220px-DreamWorks_Channel_Logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/dreamworks"
@@ -823,7 +823,7 @@
       "tv-name" : "Dubai One",
       "tv-loc" : "UEA",
       "tv-lang" : "Arabic, Inggris",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Dubai One adalah saluran hiburan dari Uni Emirates Arab yang menyediakan konten lokal dan internasional untuk penonton Non-Arab.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/d/d5/Dubai_One_logo_2016.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-one-tv"
@@ -832,7 +832,7 @@
       "tv-name" : "Dubai Racing 1",
       "tv-loc" : "UEA",
       "tv-lang" : "Arabic",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Dubai Racing adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/1/1f/Dubai_Racing_2023.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-racing-1-tv"
@@ -841,7 +841,7 @@
       "tv-name" : "Dubai Racing 2",
       "tv-loc" : "UEA",
       "tv-lang" : "Arabic",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Dubai Racing adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/1/1f/Dubai_Racing_2023.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-racing-2-tv"
@@ -850,7 +850,7 @@
       "tv-name" : "Dubai Racing 3",
       "tv-loc" : "UEA",
       "tv-lang" : "Arabic",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Dubai Racing adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/1/1f/Dubai_Racing_2023.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-racing-3-tv"
@@ -859,7 +859,7 @@
       "tv-name" : "Dubai Sports 1",
       "tv-loc" : "UEA",
       "tv-lang" : "Arabic",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Dubai Sports adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dubai_Sports_logo_2023.png/220px-Dubai_Sports_logo_2023.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-sports-1"
@@ -868,7 +868,7 @@
       "tv-name" : "Dubai Sports 2",
       "tv-loc" : "UEA",
       "tv-lang" : "Arabic",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Dubai Sports adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dubai_Sports_logo_2023.png/220px-Dubai_Sports_logo_2023.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-sports-2"
@@ -877,7 +877,7 @@
       "tv-name" : "Dubai Sports 3",
       "tv-loc" : "UEA",
       "tv-lang" : "Arabic",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Dubai Sports adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dubai_Sports_logo_2023.png/220px-Dubai_Sports_logo_2023.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-sports-3"
@@ -886,7 +886,7 @@
       "tv-name" : "Dunia Sinema",
       "tv-loc" : "Malaysia",
       "tv-lang" : "Malaysia",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Dunia Sinema adalah saluran televisi dari Malaysia yang mneyajikan berbagai film dari Malaysia dan Indonesia.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/dunia-sinema"
@@ -895,7 +895,7 @@
       "tv-name" : "EBS 1",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "EBS adalah saluran televisi terestrial dari Korea Selatan yang menyajikan dokumenter untuk pendidikan anak-anak.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/c/ce/Ebs1_2023_logo.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/ebs1"
@@ -904,61 +904,61 @@
       "tv-name" : "EBS 2",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "EBS adalah saluran televisi terestrial dari Korea Selatan yang menyajikan dokumenter untuk pendidikan anak-anak.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/4/4e/Ebs2_2023_logo.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/ebs2"
     },
     {
       "tv-name" : "ESPN",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "Inggris",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "ESPN adalah saluran televisi internasional dari Amerika Serikat yang menyajikan berbagai acara olahraga.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/espn"
     },
     {
       "tv-name" : "ESPN 2",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "Inggris",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "ESPN adalah saluran televisi internasional dari Amerika Serikat yang menyajikan berbagai acara olahraga.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/espn-2"
     },
     {
       "tv-name" : "FOX News",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "FOX News adalah saluran televisi berita multinasional dan politik yang berbasis di New York, Amerika Serikat.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/fox-news"
     },
     {
       "tv-name" : "Live Now From FOX",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "Live Now From Fox adalah saluran berita yang sedang terjadi secara langsung atau breaking news dari Amerika Serikat.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/250px-LiveNOW_from_FOX.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/live-now-fox"
     },
     {
       "tv-name" : "FOX Sports 1",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Fox Sports adalah saluran televisi berbayar dari Amerika Serikat yang menghadirkan berbagai acara olahraga.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/fox-sports-1"
     },
     {
       "tv-name" : "FOX Sports 2",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Fox Sports adalah saluran televisi berbayar dari Amerika Serikat yang menghadirkan berbagai acara olahraga.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/200px-FS2_logo_2015.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/fox-sports-2"
@@ -967,7 +967,7 @@
       "tv-name" : "Fuji TV",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Fuji TV adalah saluran televisi terestrial dari Jepang yang menyajikan berbagai acara menarik dalam bahasa Jepang.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/fuji-tv"
@@ -976,7 +976,7 @@
       "tv-name" : "BS Fuji TV",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "BS Fuji TV adalah saluran televisi broadcast dari Jepang yang menyajikan berbagai acara menarik dalam bahasa Jepang.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/1/11/BSF1.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bs-fuji-tv"
@@ -985,7 +985,7 @@
       "tv-name" : "Gaora TV",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Sport TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Gaora TV adalah saluran televisi yang menyajikan berbagai acara olahraga dari Jepang.",
       "tv-logo" : "https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/gaora-sports-tv"
@@ -994,7 +994,7 @@
       "tv-name" : "GB News",
       "tv-loc" : "Britania Raya",
       "tv-lang" : "Inggris",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "GB News adalah saluran berita dari London, Britania Raya.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/220px-GB_News_Logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/UC0vn8ISa4LKMunLbzaXLnOQ"
@@ -1003,7 +1003,7 @@
       "tv-name" : "GEM TV English",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "GEM adalah saluran televisi yang dioperasikan oleh KC Global Media Asia dengan menawarkan berbagai hiburan untuk kawasan Asia Tenggara.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/180px-Gem_TV_logo_2020.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/gem-tv-en"
@@ -1012,7 +1012,7 @@
       "tv-name" : "Galaxy",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Inggris",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Galaxy adalah saluran film milik Tripar Multivision Plus yang menampilkan berbagai film Hollywood.",
       "tv-logo" : "https://www.mncvision.id/userfiles/image/channel/channel_13.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/galaxy"
@@ -1021,7 +1021,7 @@
       "tv-name" : "Galaxy Premium",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Inggris",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "Galaxy adalah saluran film milik Tripar Multivision Plus yang menampilkan berbagai film Hollywood.",
       "tv-logo" : "https://www.mncvision.id/userfiles/image/channel/channel_12.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/galax-premium"
@@ -1030,7 +1030,7 @@
       "tv-name" : "Global Trekker",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris",
-      "tv-type" : "Lifestyle TV",
+      "tv-type" : "Lifestyle",
       "tv-desc" : "Global Trekker adalah saluran televisi dokumenter multi-genre milik ROCK Entertaiment Holdings.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/9/92/GlobalTrekker_remaster.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/global-trekker"
@@ -1039,7 +1039,7 @@
       "tv-name" : "Green Channel",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "Green Channel adalah saluran televisi satelit yang menyediakan acara olahraga, pertanian dan perikanan dari Jepang.",
       "tv-logo" : "https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/green-channel"
@@ -1048,7 +1048,7 @@
       "tv-name" : "Gusto TV",
       "tv-loc" : "Kanada",
       "tv-lang" : "English",
-      "tv-type" : "Lifestyle TV",
+      "tv-type" : "Lifestyle",
       "tv-desc" : "Gusto TV adalah saluran televisi dari Kanada yang menyajikan berbagai acara memasak.",
       "tv-logo" : "https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg",
       "tv-streaming" : "https://en.gdplayertv.to/embed/gusto-tv"
@@ -1057,7 +1057,7 @@
       "tv-name" : "HBO",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/hbo"
@@ -1066,7 +1066,7 @@
       "tv-name" : "HBO Family",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/hbo-family"
@@ -1075,7 +1075,7 @@
       "tv-name" : "HBO Signature",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/hbo-signature"
@@ -1084,7 +1084,7 @@
       "tv-name" : "History TV",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris",
-      "tv-type" : "Dokumenter TV",
+      "tv-type" : "Dokumenter",
       "tv-desc" : "History TV adalah saluran dokumenter sejarah milik A&E Network.",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/history"
@@ -1093,7 +1093,7 @@
       "tv-name" : "Home Drama",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/home-drama-channel"
@@ -1102,7 +1102,7 @@
       "tv-name" : "Hunan TV",
       "tv-loc" : "China",
       "tv-lang" : "China",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/hunan-tv"
@@ -1111,7 +1111,7 @@
       "tv-name" : "India TV",
       "tv-loc" : "India",
       "tv-lang" : "Hindi",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/UCttspZesZIDEwwpVIgoZtWQ"
@@ -1120,7 +1120,7 @@
       "tv-name" : "J Sports 1",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/j-sports-1"
@@ -1129,7 +1129,7 @@
       "tv-name" : "J Sports 2",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/j-sports-2"
@@ -1138,7 +1138,7 @@
       "tv-name" : "J Sports 3",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/j-sports-3"
@@ -1147,7 +1147,7 @@
       "tv-name" : "J Sports 4",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/j-sports-4"
@@ -1156,7 +1156,7 @@
       "tv-name" : "Jiangsu TV",
       "tv-loc" : "China",
       "tv-lang" : "China",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/jiangsu-tv"
@@ -1165,7 +1165,7 @@
       "tv-name" : "KBS 1",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-1"
@@ -1174,7 +1174,7 @@
       "tv-name" : "KBS 2",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-2"
@@ -1183,7 +1183,7 @@
       "tv-name" : "KBS Drama",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-drama"
@@ -1192,7 +1192,7 @@
       "tv-name" : "KBS Joy",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-joy"
@@ -1201,7 +1201,7 @@
       "tv-name" : "KBS Kids",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-kids"
@@ -1210,7 +1210,7 @@
       "tv-name" : "KBS Life",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-life"
@@ -1219,7 +1219,7 @@
       "tv-name" : "KBS Story",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-story"
@@ -1228,7 +1228,7 @@
       "tv-name" : "KBS World",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-world"
@@ -1237,7 +1237,7 @@
       "tv-name" : "Kids Station",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/kids-station"
@@ -1246,7 +1246,7 @@
       "tv-name" : "Kids TV",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "Kids TV adalah saluran khusus anak-anak yang dimiliki oleh MNC Media.",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/kids-tv"
@@ -1255,7 +1255,7 @@
       "tv-name" : "Kplus (K+)",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/kplus"
@@ -1264,7 +1264,7 @@
       "tv-name" : "Lifetime",
       "tv-loc" : "Britania Raya",
       "tv-lang" : "Inggris",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "Lifetime adalah saluran hiburan dan gaya hidup wanita milik A&E Network.",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/lifetime-tv"
@@ -1273,7 +1273,7 @@
       "tv-name" : "Love Nature",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris",
-      "tv-type" : "Dokumenter TV",
+      "tv-type" : "Dokumenter",
       "tv-desc" : "Love Nature adalah saluran dokumenter alam milik ROCK Entertaiments Holding.",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/love-nature-tv"
@@ -1282,7 +1282,7 @@
       "tv-name" : "MBC TV",
       "tv-loc" : "Korea Selatan",
       "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/mbc"
@@ -1291,25 +1291,25 @@
       "tv-name" : "MBS TV",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/mbs-tv"
     },
     {
       "tv-name" : "Moviesphere",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/moviesphere"
     },
     {
       "tv-name" : "MTV Live Asia",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/mtv-live"
@@ -1318,7 +1318,7 @@
       "tv-name" : "Mentari TV",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/mentari-tv"
@@ -1327,7 +1327,7 @@
       "tv-name" : "Movie Plus TV",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/movie-plus-tv-jp"
@@ -1336,7 +1336,7 @@
       "tv-name" : "Music TV",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Music TV",
+      "tv-type" : "Music",
       "tv-desc" : "Music TV adalah saluran khusus milik MNC Media yang menampilkan berbagai video klip musik.",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/music-tv"
@@ -1345,7 +1345,7 @@
       "tv-name" : "My Cinema Asia",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Mandarin, Kanton, Korea, Thailand",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "My Cinema Asia adalah saluran perfilman yang dimiliki oleh MT Entertaiment dengan menampilkan berbagai film Asia.",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/my-cinema-asia"
@@ -1354,16 +1354,16 @@
       "tv-name" : "My Cinema Europe",
       "tv-loc" : "Indonesia",
       "tv-lang" : "English",
-      "tv-type" : "Film TV",
+      "tv-type" : "Film",
       "tv-desc" : "My Cinema Europe adalah saluran perfilman yang dimiliki oleh MT Entertaiment dengan menampilkan berbagai film dari Eropa.",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/my-cinema-europe"
     },
     {
       "tv-name" : "NBC News",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/UCeY0bbntWzzVIaj2z3QigXg"
@@ -1372,7 +1372,7 @@
       "tv-name" : "NHK BS",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/nhk-bs1-tv"
@@ -1381,7 +1381,7 @@
       "tv-name" : "NHK BS Premium",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/nhk-bsp-tv"
@@ -1390,7 +1390,7 @@
       "tv-name" : "NHK World",
       "tv-loc" : "Jepang",
       "tv-lang" : "English",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/nhk-world"
@@ -1399,7 +1399,7 @@
       "tv-name" : "NTV",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/nippon-ntv"
@@ -1408,7 +1408,7 @@
       "tv-name" : "NTV Plus",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/ntv-plus"
@@ -1417,7 +1417,7 @@
       "tv-name" : "BS NTV",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/bs-ntv"
@@ -1426,43 +1426,43 @@
       "tv-name" : "NTV News 24",
       "tv-loc" : "Jepang",
       "tv-lang" : "Jepang",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/ntv-news-24"
     },
     {
       "tv-name" : "NAT GEO",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "Knowledge TV",
+      "tv-type" : "Knowledge",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/nat-geo"
     },
     {
       "tv-name" : "NAT GEO Japan",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "Jepang",
-      "tv-type" : "Knowledge TV",
+      "tv-type" : "Knowledge",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/nat-geo-jp"
     },
     {
       "tv-name" : "NAT GEO WILD",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "Knowledge TV",
+      "tv-type" : "Knowledge",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/UCDPk9MG2RexnOMGTD-YnSnA"
     },
     {
       "tv-name" : "NAT GEO Kids",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "Knowledge TV",
+      "tv-type" : "Knowledge",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/UCXVCgDuD_QCkI7gTKU7-tpgv"
@@ -1471,7 +1471,7 @@
       "tv-name" : "Nick Jr.",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris, Indonesia",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "Nick Jr. adalah saluran khusus anak-anak milik Paramount Media Networks.",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/nick-junior"
@@ -1480,16 +1480,16 @@
       "tv-name" : "Nickelodeon",
       "tv-loc" : "Singapura",
       "tv-lang" : "Inggris, Indonesia",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "Nickelodeon adalah saluran anak-anak milik Paramount Media Networks yang menampilkan berbagai kartun untuk anak-anak.",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/nickelodeon"
     },
     {
       "tv-name" : "Nickelodeon Indonesia",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "Indonesia",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "Nickelodeon Indonesia adalah saluran anak-anak dari Nickelodeon berbahasa Indonesia yang disiarkan melalui Youtube.",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/UCTJDdO9klWGpTekswnXreGQ"
@@ -1498,7 +1498,7 @@
       "tv-name" : "One TV Indonesia",
       "tv-loc" : "Singapura",
       "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "One TV adalah saluran milik KC Global Media yang menampilkan berbagai program-program hiburan dari Korea",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/one"
@@ -1507,16 +1507,16 @@
       "tv-name" : "Oman Sports",
       "tv-loc" : "Oman",
       "tv-lang" : "Arabic",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/oman-sports"
     },
     {
       "tv-name" : "Peacock Jr",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "Kids TV",
+      "tv-type" : "Kids",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/UCKtfozhWfwvXUTnR7PV3t5g"
@@ -1525,16 +1525,16 @@
       "tv-name" : "Polimer News",
       "tv-loc" : "India",
       "tv-lang" : "Urdu",
-      "tv-type" : "News TV",
+      "tv-type" : "News",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/UC8Z-VjXBtDJTvq6aqkIskPg"
     },
     {
       "tv-name" : "Premier League TV",
-      "tv-loc" : "Inggris",
+      "tv-loc" : "Britania Raya",
       "tv-lang" : "English",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/premier-league"
@@ -1543,7 +1543,7 @@
       "tv-name" : "Qello Concerts By Stingray",
       "tv-loc" : "Kanada",
       "tv-lang" : "English",
-      "tv-type" : "Music TV",
+      "tv-type" : "Music",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/qello-concerts-by-stingray"
@@ -1552,7 +1552,7 @@
       "tv-name" : "Racing.com TV",
       "tv-loc" : "Australia",
       "tv-lang" : "English",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/racingcom-tv"
@@ -1561,16 +1561,16 @@
       "tv-name" : "Red Bull TV",
       "tv-loc" : "Austria",
       "tv-lang" : "English",
-      "tv-type" : "Sports TV",
+      "tv-type" : "Sports",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/red-bull-tv"
     },
     {
       "tv-name" : "Right Now TV",
-      "tv-loc" : "Amerika Serikat",
+      "tv-loc" : "US",
       "tv-lang" : "English",
-      "tv-type" : "Entertaiment TV",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
       "tv-streaming" : "https://en.gdplayertv.to/embed/right-now-tv"
