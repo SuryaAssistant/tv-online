@@ -7,7 +7,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Indosiar adalah saluran televisi nasional yang dimiliki oleh Surya Citra Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/indosiar"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/indosiar",
+      "ping" : 100
     },
     {
       "tv-name" : "RCTI",
@@ -16,7 +17,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "RCTI adlah saluran televisi nasional yang dimiliki oleh MNC Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/200px-RCTI_logo_2015.svg.png",
-      "tv-streaming" : "https://useetvwv.visionplus.id/playing/channels/2"
+      "tv-streaming" : "https://useetvwv.visionplus.id/playing/channels/2",
+      "ping" : 7
     },
     {
       "tv-name" : "ABC News Australia",
@@ -25,7 +27,8 @@
       "tv-type" : "News",
       "tv-desc" : "ABC News adalah layanan berita publik dari Australian Broadcasting Corporation yang berlokasi di Sydney, New South Wales, Australia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/250px-ABC_News_Channel.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/abc-news-au"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/abc-news-au",
+      "ping" : 8
     },
     {
       "tv-name" : "ABC News",
@@ -34,7 +37,8 @@
       "tv-type" : "News",
       "tv-desc" : "ABC News adalah saluran televisi berita dari American Broadcasting Company dan merupakan bagian dari Disney Entertaiment.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/220px-ABC_News_logo_2021.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/abc-news-us"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/abc-news-us",
+      "ping" : 7
     },
     {
       "tv-name" : "ABC Plus Australia",
@@ -43,7 +47,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "ABC Plus adalah saluran televisi free-to-air dari Australia yang dimiliki oleh Australian Broadcasting Corporation.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/100px-ABC_TV_Plus_logo_2021.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/abc-plus-au"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/abc-plus-au",
+      "ping" : 5
     },
     {
       "tv-name" : "ABC TV Japan",
@@ -52,7 +57,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Asahi Broadcasting Corporation (ABC) TV adalah saluran televisi hiburan berbahasa jepang milik Asahi Broadcasting Group Holdings Corporation.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/180px-Asahi_Broadcasting_Corporation_Logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/abc-tv-asahi"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/abc-tv-asahi?alt=0&embed=1",
+      "ping" : 7
     },
     {
       "tv-name" : "ABN TV",
@@ -61,7 +67,8 @@
       "tv-type" : "News",
       "tv-desc" : "ABN atau Areum Broadcasting Network adalah televisi kabel yang berbasis di Seongnam, Gyeonggi, Korea Selatan.",
       "tv-logo" : "https://www.abn.co.kr/resources/images/logo.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/abn-tv-kr"
+      "tv-streaming" : "./test.html?tv=abn-tv",
+      "ping" : 3
     },
     {
       "tv-name" : "ANN News",
@@ -70,7 +77,8 @@
       "tv-type" : "News",
       "tv-desc" : "ANN atau All-Nippon News Network adalah jaringan televisi komersial yang dijalankan oleh TV Asahi Corporation (TV Asahi) yang berbasis di Tokyo.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/220px-ANN_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/ann"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/ann",
+      "ping" : 6
     },
     {
       "tv-name" : "Mystery Channel",
@@ -79,7 +87,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Mystery Channel adalah saluran film dan drama bergenre misteri yang menampilkan berbagai film dari seluruh dunia dalam bahasa Jepang.",
       "tv-logo" : "https://www.starcat.co.jp/ch/upload/channel/13/mystery_logo.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/mystery-channel"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/mystery-channel",
+      "ping" : 10
     },
     {
       "tv-name" : "AXN TV Indonesia",
