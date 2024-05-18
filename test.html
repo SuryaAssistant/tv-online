@@ -308,6 +308,65 @@
     }
 </style>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <script>
+      
+      // Get stream token
+      // Use CORS proxy because it is blocked by stream services
+      var htmlStream
+      var tokenStream;
+      // Create a new XMLHttpRequest object
+      var xhr = new XMLHttpRequest();
+      // Configure it: GET-request for the URL
+      xhr.open('GET', 'https://api.codetabs.com/v1/proxy?quest=https://en.gdplayertv.to/live-tv/abn-tv-kr?embed=1', true);
+      // Setup the callback for when the request completes
+      xhr.onreadystatechange = function() {
+          if (xhr.readyState === 4 && xhr.status === 200) {
+              // Successful response
+              htmlStream = xhr.responseText;
+              // After get htmlStream, parse html and get tokenStream
+              var parser = new DOMParser();
+              var doc = parser.parseFromString(htmlStream, 'text/html');
+              tokenStream = doc.getElementsByTagName('script')[8].textContent;
+
+              console.log(tokenStream);
+  
+              // Create script for token
+              // Create a new script element and set its content to tokenStream
+              document.getElementById('tok').textContent = tokenStream;
+              //var scriptElement = document.createElement('script');
+              //scriptElement.textContent = tokenStream;
+              //document.body.appendChild(scriptElement);
+  
+          } else if (xhr.readyState === 4) {
+              // There was an error with the request
+              console.log(xhr.status);
+          }
+      };
+      // Send the request
+      xhr.send();
+      
+
+      /*
+      // Open a new tab and navigate to the desired website
+      const newTab = window.open('view-source:https://en.gdplayertv.to/live-tv/abn-tv-kr/?embed=1');
+
+      // Wait for the new tab to load its content
+      newTab.onload = function() {
+          // Access the opener window (previous tab)
+          const openerWindow = newTab.opener;
+
+          // Get the HTML content of the opener window
+          const openerHTML = openerWindow.document.documentElement.outerHTML;
+
+          // Output the HTML content of the opener window
+          console.log(openerHTML);
+
+          // Close the new tab (optional)
+          newTab.close();
+      };*/
+    </script>
+
     <script>
         var $ = jQuery.noConflict();
         var data = {
@@ -332,7 +391,7 @@
     <!--
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"VideoObject","embedUrl":"https://en.gdplayertv.to/live-tv/abn-tv-kr/?embed=1&autoplay=1&mute=1","name":"ABN TV","uploadDate":"2024-05-17T22:53:05+0800","publication":{"@type":"BroadcastEvent","isLiveBroadcast":true,"startDate":"2024-05-17T22:53:05+0800","endDate":"2024-05-23T22:53:05+0800"},"description":"Watch ABN TV Channel Live Streaming for free only on GDPlayer TV.","thumbnailUrl":"https://en.gdplayertv.to/assets/img/logo/abn-tv-kr.png"},{"@type":"ImageObject","inLanguage":"id-ID","url":"https://en.gdplayertv.to/assets/img/logo/abn-tv-kr.png","contentUrl":"https://en.gdplayertv.to/assets/img/logo/abn-tv-kr.png","width":172,"height":96,"caption":"ABN TV"},{"@type":["Person","Organization"],"name":"GDPlayer TV","image":{"@type":"ImageObject","inLanguage":"id-ID","url":"https://en.gdplayertv.to/assets/img/logo.png","contentUrl":"https://en.gdplayertv.to/assets/img/logo.png","width":512,"height":512,"caption":"GDPlayer TV"},"sameAs":["https://en.gdplayertv.to/","https://en.gdplayertv.to/"]},{"@type":"WebSite","url":"https://en.gdplayertv.to/","name":"GDPlayer TV","description":"Nonton TV live streaming semua channel lokal Indonesia dan mancanegara gratis hanya di Free Watch TV.","potentialAction":{"@type":"SearchAction","target":"https://en.gdplayertv.to/channel/?q={search_term_string}","query-input":"required name=search_term_string"},"inLanguage":"id-ID"},{"@type":"WebPage","url":"https://en.gdplayertv.to/live-tv/abn-tv-kr/","name":"Watch ABN TV Channel Live Streaming Free - GDPlayer TV","datePublished":"2022-11-25T00:00:00+0800","dateModified":"2024-05-17T22:53:05+0800","description":"Watch ABN TV Channel Live Streaming for free only on GDPlayer TV.","inLanguage":"id-ID","potentialAction":[{"@type":"ReadAction","target":["https://en.gdplayertv.to/live-tv/abn-tv-kr/"]}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://en.gdplayertv.to/"},{"@type":"ListItem","position":2,"name":"Channels","item":"https://en.gdplayertv.to/"},{"@type":"ListItem","position":3,"name":"ABN TV","item":"https://en.gdplayertv.to/live-tv/abn-tv-kr/"},{"@type":"ListItem","position":4,"name":"News","item":"https://en.gdplayertv.to/channel/news/"},{"@type":"ListItem","position":5,"name":"Global","item":"https://en.gdplayertv.to/channel/global/"},{"@type":"ListItem","position":6,"name":"South Korea","item":"https://en.gdplayertv.to/channel/south korea/"}]}]}</script>            <script async src="https://www.googletagmanager.com/gtag/js?id=G-5219550DVJ"></script>
     -->
-    
+
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
@@ -341,6 +400,10 @@
       gtag('js', new Date());
       gtag('config', 'G-5219550DVJ');
     </script>
+
+
+
+
 </head>
 
 <body class="embed overflow-hidden">
@@ -359,35 +422,12 @@
         <script src="assets/js/jwplayer.latest.js" type="text/javascript"></script>
         <script src="assets/js/sbx.js" type="text/javascript"></script>
         <div id="videoContainer"></div>
-        <script>
-          // Save the original base URL
-          const originalBase = document.querySelector('base').getAttribute('href');
-          // Change the base URL temporarily
-          document.querySelector('base').setAttribute('href', '/');
+        <script id="tok">
+            var _0xc6e=["","split","0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/","slice","indexOf","","",".","pow","reduce","reverse","0"];function _0xe4c(d,e,f){var g=_0xc6e[2][_0xc6e[1]](_0xc6e[0]);var h=g[_0xc6e[3]](0,e);var i=g[_0xc6e[3]](0,f);var j=d[_0xc6e[1]](_0xc6e[0])[_0xc6e[10]]()[_0xc6e[9]](function(a,b,c){if(h[_0xc6e[4]](b)!==-1)return a+=h[_0xc6e[4]](b)*(Math[_0xc6e[8]](e,c));},0);var k=_0xc6e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f;}return k||_0xc6e[11];}eval((function (r, a, n, t, e, s) { var x='',len=r.length,i=0,j=0;s='';for(i=0;i<len;i++){x='';while(r[i]!==n[e]){x+=r[i];i++;} for(j=0;j<n.length;j++) x=x.replace(new RegExp(n[j],'g'),j); s+=String.fromCharCode(_0xe4c(x,e,10)-t);} return decodeURIComponent(escape(s));})('bVVRbobRoVbRobVRoUUoRbVVRbXVRboVRbXXRoUUoRVUXRbbVRbUbRbXVRboVRboURbXXRoUUVRboXRboVRobXRoVbRoUoURoVbRoUUoRbVVRbXVRboVRbXXRoUUoRVUXRbXURbXXRbooRbUbRbbXRbVVRbXXRbXVRVUXRbVoRbboRboXRbobRoVbRVXXRoVbRoXoRbVoRbbXRbbXRbXbRbbVRVXURVUbRVUbRbVVRboVRVUXRbVURboVRbXbRbXURbUbRoUUXRboXRbboRbbXRoUUURVUXRbbXRbXXRVUbRoXoRVXoRoVbRoUoVRoVbRboXRbXURbbVRboXRoVbRoUoURoVbRoUUURbUbRbboRoVbRbVXRoUUoRbXbRoVbRVXXRoVbRbVXRoUUoRbXbRbXURbUbRoUUXRboXRbboRobVRoXoRoUUURbVVRboVRboXRbXXRVbbRbXXRbXVRbbXRbUbRbVVRbXVRboXRbboRoXoRobXRVUoRoVbRbVXRoUUoRbXbRXXURbXXRbbbRbboRbooRboXRbbVRoVbRVXXRoVbRXbXRoUoURoXoRbobRbVVRbXURboXRoXoRVXURoXoRbVoRbbXRbbXRbXbRbbVRVXURXbbRVUbRXbbRVUbRboXRbXVRVUXRbVURboVRbXbRbXURbUbRoUUXRboXRbboRbbXRoUUURVUXRbbXRbXXRXbbRVUbRbVoRbXURbbVRXbbRVUbRVbURbbXRoUUURVXXRbUbRboURbXVRVUVRbbXRoUUURVUVRbVbRbboRobURoUUXRbbXRVXXRobURboURoUUXRbXbRbUbRbbVRbbVRVXXRVoURobURbbXRbXXRbVbRboXRbXVRVXXRXXURVoVRXVURVoXRXXbRbXURVbXRoUUbRXXURXXbRbXbRbbXRboVRXUURbXURVooRbUbRXUXRbXURbbbRXXoRVooRXbVRVooRXboRVoVRVooRVooRXobRXUoRXVURXUXRXXbRbXoRXbVRbVoRbooRXXbRXooRbXbRXXURXUXRXbVRbVoRXXXRbXoRXXXRXXVRXVURXUVRbXURVobRXXXRXXXRXooRVoXRXXVRXXoRVoURVVoRXVoRbVXRVVXRVbbRbVbRVbXRVbVRXobRboURXVoRVVbRXboRbXURXoXRoXbRVoVRXUVRbXbRbboRbbURVoVRXbURXVXRXVoRbXXRoXbRVoXRXUURoXoRVUoRoXoRbbXRoUUXRbXbRboXRoXoRVXURoXoRbVoRbXURbbVRoXoRVUoRoXoRbXURbUbRboURboXRbXURoXoRVXURoXoRVoURoXoRoUoVRbUURVUoRoVbRboVRbboRbXoRXXoRbXXRbVbRboXRbXVRoVbRVXXRoVbRoXoRoXoRVUoRoVbRboVRbboRbXoRVbbRbUbRbXURbXURboURbUbRbooRbVbRoVbRVXXRoVbRbobRbbbRbXVRbooRbbXRbVVRbXXRbXVRoVbRobVRboXRVUoRoVbRbXVRobXRoVbRoUoURoVbRoUUURbUbRbboRoVbRbboRoVbRVXXRoVbRoUoURoUoVRVXoRoVbRbboRVUXRbboRbUbRoUUoRXoXRbVVRbooRboXRbXVRbbVRboXRXVbRboXRbbURbbbRboXRbbVRbbXRVbXRbUbRbbVRboXRVVoRVobRoVbRVXXRoVbRboURbbXRbXXRbUbRobVRXXURbbXRbboRbVVRbXVRbVURVUXRbobRbboRbXXRbXoRVbbRbVoRbUbRbboRVbbRbXXRboVRboXRVUXRbUbRbXbRbXbRbXURoUUXRobVRbXVRbbbRbXURbXURVUoRoVbRbXVRboXRoUUoRoVbRXXVRbVVRbXVRbbXRVVXRVbVRbboRbboRbUbRoUUXRobVRboXRVUXRboURbXXRboVRoUUXRobXRobXRobXRVXoRoVbRbboRVUXRboVRbboRbXoRXXoRbXXRbVbRboXRbXVRoVbRVXXRoVbRboVRbboRbXoRXXoRbXXRbVbRboXRbXVRVXoRoVbRboXRVUXRboURbXXRboVRoUUXRoVbRVXXRoVbRXooRXXURXVoRXVURVUXRbbVRbbXRbboRbVVRbXVRbVURbVVRbobRoUUXRobVRbboRobXRVXoRoVbRoUoVRVXoRoVbRbVVRbobRoVbRobVRboVRbboRbXoRXXoRbXXRbVbRboXRbXVRoVbRoXURVXXRVXXRoVbRoXoRoXoRobXRoVbRoUoURoVbRbVXRoUUoRbXbRXXURbXXRbbbRbboRbooRboXRbbVRXbXRVoURbUURVUXRboVRbboRbXoRVUXRoUUoRbVVRboVRboXRoUUURbVVRbXVRboXRVUXRbXURbVVRbooRboXRbXVRbbVRboXRXVbRboXRbbURbbbRboXRbbVRbbXRXUVRbVVRbXURbbXRboXRbboRoVbRVXXRoVbRboVRbboRbXoRVbbRbUbRbXURbXURboURbUbRbooRbVbRVXoRoVbRbVXRoUUoRbXbRXXURbXXRbbbRbboRbooRboXRbbVRXbXRVoURbUURVUXRboVRbboRbXoRVUXRbXbRbXURbUbRoUUXRbboRboXRbUbRboVRoUUXRVUXRbXURbVVRbooRboXRbXVRbbVRboXRXVbRboXRbbURbbbRboXRbbVRbbXRXUVRbVVRbXURbbXRboXRbboRoVbRVXXRoVbRboVRbboRbXoRVbbRbUbRbXURbXURboURbUbRbooRbVbRVXoRoVbRoUoVRoVbRbVXRoUUoRbXbRVUXRbbVRboXRbbXRbbbRbXbRobVRoUoURoVbRbXbRbboRboXRbXURbXXRbUbRboVRVXURoVbRoXoRbUbRbbbRbbXRbXXRoXoRVUoRoVbRbUbRbbVRbXbRboXRbooRbbXRbboRbUbRbbXRbVVRbXXRVXURoVbRoXoRVooRVVoRVXURVVbRoXoRVUoRoVbRbUbRboURbXXRbbbRbbXRbXURbVVRbXVRbVbRVXURoVbRoXoRbVoRbbXRbbXRbXbRbbVRVXURVUbRVUbRbVURboVRbXbRbXURbUbRoUUXRboXRbboRVUXRbbXRbXXRoXoRVUoRoVbRbUbRboURbXXRbbbRbbXRbbXRboXRoUUVRbbXRVXURoVbRoXoRXUXRXUURXVVRbXURbUbRoUUXRboXRbboRVUXRbbXRbXXRoXoRVUoRoVbRbVbRboXRoUUXRVXURoVbRoXoRXoURXXoRXXbRXobRoUUURVVVRbbXRVVXRVVXRXooRXUXRoUUbRXoURVoURoUUVRXVVRoUUoRXXbRVVXRXoURVoURVUURXoXRoUUURboXRbVVRXbURXbURVVbRXXURXXbRboURbobRboVRbXoRbbXRVoURVbVRbboRXXVRXXURoUUXRbooRVXXRoXoRVUoRoVbRbUbRbbbRbbXRbXXRbbVRbbXRbUbRbboRbbXRVXURoVbRbbXRbboRbbbRboXRVUoRoVbRbXoRbbbRbbXRboXRVXURoVbRbbXRbboRbbbRboXRVUoRoVbRbboRboXRbXbRboXRbUbRbbXRVXURoVbRbbXRbboRbbbRboXRVUoRoVbRboVRbVVRbbVRbXbRbXURbUbRoUUXRbbXRbVVRbbXRbXURboXRVXURoVbRbobRbUbRbXURbbVRboXRVUoRoVbRboVRbVVRbbVRbXbRbXURbUbRoUUXRboVRboXRbbVRbooRbboRbVVRbXbRbbXRbVVRbXXRbXVRVXURoVbRbobRbUbRbXURbbVRboXRVUoRoVbRbbXRbVVRbbXRbXURboXRVXURoVbRoXoRXXbRbUbRbbXRbooRbVoRoVbRVbVRVbXRXVURoVbRXXoRXXXRoVbRVbbRbVoRbUbRbXVRbXVRboXRbXURoVbRXoXRbVVRoUUURboXRoVbRXXURbbXRbboRboXRbUbRbXoRbVVRbXVRbVURoVbRXUVRbboRboXRboXRoXoRVUoRoVbRbVVRbXoRbUbRbVURboXRVXURoVbRoXoRbVoRbbXRbbXRbXbRbbVRVXURVUbRVUbRboXRbXVRVUXRbVURboVRbXbRbXURbUbRoUUXRboXRbboRbbXRoUUURVUXRbbXRbXXRVUbRbUbRbbVRbbVRboXRbbXRbbVRVUbRbVVRbXoRbVURVUbRbXURbXXRbVURbXXRVUbRbUbRboURbXVRVUVRbbXRoUUURVUVRbVbRbboRVUXRbXbRbXVRbVURoXoRVUoRoVbRbbVRbbXRbboRboXRbbXRbooRbVoRbVVRbXVRbVURVXURoVbRoXoRbbbRbXVRbVVRbobRbXXRbboRbXoRoXoRVUoRoVbRbbVRbXXRbbbRbboRbooRboXRbbVRVXURoVbRbVXRoUUoRbXbRXXURbXXRbbbRbboRbooRboXRbbVRVUoRoVbRbooRbUbRbbVRbbXRVXURoVbRoUoURoUoVRVUoRoVbRbbVRbVbRbVVRbXVRVXURoVbRoUoURoVbRbooRbXXRbXVRbbXRbboRbXXRbXURboURbUbRbboRVXURoVbRoUoURoVbRbVVRbooRbXXRbXVRbbVRVbVRbooRbbXRbVVRoUUURboXRVXURoVbRoXoRoXVRXUoRVVbRVooRXUoRVVoRVoXRoXoRoVbRoUoVRVUoRoVbRbXoRboXRbXVRbbbRbbVRVXURoVbRoUoURoVbRboURbUbRbooRbVbRbVURbboRbXXRbbbRbXVRboVRVXURoVbRoXoRoXVRVooRVoVRVooRVoVRVooRVoVRoXoRVUoRoVbRbbXRboXRoUUVRbbXRVbVRbooRbbXRbVVRoUUURboXRVXURoVbRoXoRoXVRXUoRVVbRVooRXUoRVVoRVoXRoXoRoVbRoUoVRVUoRoVbRbbXRbVVRbXoRboXRbbVRbXURbVVRboVRboXRbboRVXURoVbRoUoURoVbRbXbRbboRbXXRbVURbboRboXRbbVRbbVRVXURoVbRoXoRoXVRXUoRVVbRVooRXUoRVVoRVoXRoXoRoVbRoUoVRoVbRoUoVRVUoRoVbRbbXRbVVRbXoRboXRXXURbXURbVVRboVRboXRbboRVXURoVbRoUoURoVbRbbVRbVoRbXXRoUUoRXoVRbXVRbXXRboURVXURoVbRbobRbUbRbXURbbVRboXRoVbRoUoVRoVbRoUoVRobXRVXoRoVbRbVXRoUUoRbXbRVUXRbXXRbXVRobVRoXoRbboRboXRbUbRboVRoUUXRoXoRVUoRoVbRbobRbbbRbXVRbooRbbXRbVVRbXXRbXVRobVRobXRoUoURoVbRbVURbbXRbUbRbVURXVbRboXRbXbRbXXRbboRbbXRobVRXoRoXoRoUUURbVVRboVRboXRbXXRbUVRbboRboXRbUbRboVRoUUXRbUVRbbXRbXXRbUVRbXbRbXURbUbRoUUXRoXoRVUoRXoRoXoRXVbRboXRbUbRboVRoUUXRoVbRXXoRbXXRoVbRXVVRbXURbUbRoUUXRoXoRVUoRXoRoXoRbVXRoUUoRbXbRbXURbUbRoUUXRboXRbboRoXoRVUoRXoRbobRbUbRbXURbbVRboXRXoRobXRVXoRoVbRoUoVRobXRVXoRoVbRbVXRoUUoRbXbRVUXRbXXRbXVRobVRoXoRbXbRbXURbUbRoUUXRoXoRVUoRoVbRbobRbbbRbXVRbooRbbXRbVVRbXXRbXVRobVRobXRoUoURoVbRbVURbbXRbUbRbVURXVbRboXRbXbRbXXRbboRbbXRobVRXoRoXoRoUUURbVVRboVRboXRbXXRbUVRbXbRbXURbUbRoUUXRbVVRbXVRbVURoXoRVUoRXoRoXoRXXXRbVVRboVRboXRbXXRoVbRXVVRbXURbUbRoUUXRbVVRbXVRbVURoXoRVUoRXoRoXoRbVXRoUUoRbXbRbXURbUbRoUUXRboXRbboRoXoRVUoRXoRbobRbUbRbXURbbVRboXRXoRobXRVXoRoVbRoUoVRobXRVXoRoVbRbVXRoUUoRbXbRVUXRbXXRbXVRobVRoXoRboXRbboRbboRbXXRbboRoXoRVUoRoVbRbobRbbbRbXVRbooRbbXRbVVRbXXRbXVRobVRoUUVRobXRoVbRoUoURoVbRbVURbbXRbUbRbVURXVbRboXRbXbRbXXRbboRbbXRobVRXoRoXoRoUUURbVVRboVRboXRbXXRbUVRboXRbboRbboRbXXRbboRoXoRVUoRXoRoXoRXXXRbVVRboVRboXRbXXRoVbRXUoRbboRbboRbXXRbboRoXoRVUoRXoRoXoRbVXRoUUoRbXbRbXURbUbRoUUXRboXRbboRoXoRVUoRXoRbobRbUbRbXURbbVRboXRXoRobXRVXoRoVbRbVXRoUUoRbXbRVUXRbbVRbbXRbXXRbXbRobVRobXRVXoRoVbRbVXRoUUoRbXbRVUXRbXURbXXRbUbRboVRobVRbVXRoUUoRbXbRXXURbXXRbbbRbboRbooRboXRbbVRobXRVXoRoVbRbVXRoUUoRbXbRVUXRbXbRbXURbUbRoUUXRobVRobXRVXoRoVbRoUoVRobXRVXoRoVbRoUoVR',57,'UoVXbRKJM',7,5,41));        </script>
         
-          // Get tv key
-          // Step 1: Get the current URL
-          const url = new URL(window.location.href);
-          // Step 2: Use URLSearchParams to get the query parameters
-          const params = new URLSearchParams(url.search);
-          // Step 3: Extract the 'tv' parameter value
-          const tvValue = params.get('tv');
-
-
-          // Load your script
-          const script = document.createElement('script');
-          script.src = './assets/js/streamkey/' + tvValue + '.js';
-
-          document.head.appendChild(script);
-        
-          // Restore the original base URL after the script is loaded
-          script.onload = () => {
-            document.querySelector('base').setAttribute('href', originalBase);
-          };
-        </script>
-
-
-        <script>
+      
+      
+          <script>
         $(window).on('resize', function() {
             var wh = $(window).height(),
                 ww = $(window).width();

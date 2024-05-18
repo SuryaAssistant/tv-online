@@ -22,28 +22,19 @@
 
   <body>
     <!-- Navbar -->
+    <!--
     <nav class="navbar navbar-expand-md navbar-dark fixed-top">
-      <div class="container">
-        <div class="col">
-          <div class="row" style="text-align: center;">
-            <div class="col-4">
-            </div>
-            <div class="col active-nav" id="menu0" onclick="displayHome()">
-              <a class="navbar-brand active-nav-text" id="amenu0">TV List</a>
-            </div>
-            <div class="col-4">
-            </div>
-          </div>
-        </div>
-      </div>
-    </nav>
 
+    </nav>
+-->
     <!-- Main Section Here -->
     <section id="main" class="whitecolor primebackground" style="min-height: 100vh;">
-      <div class="row" style="margin-left:0px; margin-right:0px; padding-top: 10vh; text-align: center;">
+      
+      <!-- Main Frame Area-->
+      <div class="row" style="margin-left:0px; margin-right:0px; text-align: center;">
         <div class="col">
-          <!-- TV description -->
-          <div class="alert alert-danger" role="alert">
+          <!-- Alert -->
+          <div class="alert alert-danger" role="alert" style="margin-left:20px; margin-right:20px; margin-bottom:10px; padding-top:5px; padding-bottom:5px">
             Mohon maaf atas iklan yang muncul. Gunakan <strong><a href="https://one.one.one.one">Cloudflare WARP</a></strong> selama mengakses halaman ini. 
           </div>
           <div class="scroll">
@@ -54,7 +45,22 @@
 
       </div>
 
-
+      <!-- Bottom Navigation   -->
+      <div class="row fixed-bottom" style="padding-top: 2vh; padding-bottom: 2vh; margin-left:0px; margin-right: 0px;">
+        <div class="col">
+          <div class="row" style="text-align: center;">
+            <div class="col-4" style="font-size: 20px;" onclick="playPrev()">
+              <a><i class='bx bxs-chevron-left'></i></a>
+            </div>
+            <div class="col active-nav" id="menu0" onclick="displayHome()">
+              <a class="navbar-brand active-nav-text" id="amenu0">Home</a>
+            </div>
+            <div class="col-4" style="font-size: 20px;" onclick="playNext()">
+              <a><i class='bx bxs-chevron-right'></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 
 

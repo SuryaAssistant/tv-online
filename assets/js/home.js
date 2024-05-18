@@ -2,7 +2,7 @@ function displayHome(){
   let list = tvList;
   let totalRow = Math.floor(listLength / 6) + 1;
 
-  document.getElementById("amenu0").innerHTML = `TV List`;
+  document.getElementById("amenu0").innerHTML = `<i class='bx bxs-home'></i>`;
 
   // Create row based on total Row
   document.getElementById("main-frame").innerHTML = ``;
@@ -22,7 +22,7 @@ function displayHome(){
 
       if((i*6 + j) < listLength){
         document.getElementById(rowID).innerHTML += `
-          <div class="col channel-slide" id="${listID}" style="margin-top:20px" onclick="play(${String(i*6 + j)})">
+          <div class="col channel-slide" id="${listID}" style="margin-bottom:20px" onclick="play(${String(i*6 + j)})">
             <img src="${listNow["tv-logo"]}" class="card-img-top" alt="${listNow["tv-name"]}">
             <div class="card-body">
               <h5 class="card-title">${listNow["tv-name"]}</h5>

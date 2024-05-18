@@ -3,7 +3,7 @@ function play(channelID){
   
   let channel = tvList[0].tvlist[channelID];
 
-  document.getElementById("amenu0").innerHTML = `Back`;
+  document.getElementById("amenu0").innerHTML = `<i class='bx bxs-home'></i>`;
   document.getElementById("main-frame").innerHTML = `
   <!-- Videostream -->
   <div class="row" style="">
@@ -25,6 +25,7 @@ function play(channelID){
   <!-- Television Information -->
   <div class="row" style="padding-top:20px">
     <div class="col">
+      <p style="text-align:center">${channel["tv-name"]}</p>
 
       <!-- TV Censorship alert -->
       <!--
@@ -34,9 +35,11 @@ function play(channelID){
       -->
 
       <!-- TV description -->
+      <!--
       <div class="alert alert-primary" role="alert">
         ${channel["tv-desc"]}
       </div>
+      -->
 
       <!-- TV Location and type -->
       <!--
@@ -82,4 +85,16 @@ function play(channelID){
   // Wait for the iframe to fully load
   document.getElementById('embeddedIframe').addEventListener('load', handleIframeLoad);
   */
+}
+
+
+function playNext(){
+  var gotoChannel = nowPlaying + 1;
+  // Check if 
+  if(gotoChannel > listLength){
+    gotoChannel = 0
+  }
+
+  //play
+  play(gotoChannel);
 }
