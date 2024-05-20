@@ -1,7 +1,7 @@
 [
   {"tvlist":[
     {
-      "tv-name" : "Indosiar TV",
+      "tv-name" : "Indosiar",
       "tv-loc" : "Indonesia",
       "tv-lang" : "Indonesia",
       "tv-type" : "Entertaiment",
@@ -28,7 +28,7 @@
       "tv-desc" : "ABC News adalah layanan berita publik dari Australian Broadcasting Corporation yang berlokasi di Sydney, New South Wales, Australia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/250px-ABC_News_Channel.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/abc-news-au",
-      "ping" : 8
+      "isSlow" : 0
     },
     {
       "tv-name" : "ABC News",
@@ -38,7 +38,7 @@
       "tv-desc" : "ABC News adalah saluran televisi berita dari American Broadcasting Company dan merupakan bagian dari Disney Entertaiment.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/220px-ABC_News_logo_2021.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/abc-news-us",
-      "ping" : 7
+      "isSlow" : 0
     },
     {
       "tv-name" : "ABC Plus Australia",
@@ -48,7 +48,7 @@
       "tv-desc" : "ABC Plus adalah saluran televisi free-to-air dari Australia yang dimiliki oleh Australian Broadcasting Corporation.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/100px-ABC_TV_Plus_logo_2021.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/abc-plus-au",
-      "ping" : 5
+      "isSlow" : 0
     },
     {
       "tv-name" : "ABC TV Japan",
@@ -58,7 +58,7 @@
       "tv-desc" : "Asahi Broadcasting Corporation (ABC) TV adalah saluran televisi hiburan berbahasa jepang milik Asahi Broadcasting Group Holdings Corporation.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/180px-Asahi_Broadcasting_Corporation_Logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/live-tv/abc-tv-asahi?alt=0&embed=1",
-      "ping" : 7
+      "isSlow" : 0
     },
     {
       "tv-name" : "ABN TV",
@@ -68,7 +68,7 @@
       "tv-desc" : "ABN atau Areum Broadcasting Network adalah televisi kabel yang berbasis di Seongnam, Gyeonggi, Korea Selatan.",
       "tv-logo" : "https://www.abn.co.kr/resources/images/logo.png",
       "tv-streaming" : "./test.html?tv=abn-tv",
-      "ping" : 3
+      "isSlow" : 0
     },
     {
       "tv-name" : "ANN News",
@@ -78,7 +78,7 @@
       "tv-desc" : "ANN atau All-Nippon News Network adalah jaringan televisi komersial yang dijalankan oleh TV Asahi Corporation (TV Asahi) yang berbasis di Tokyo.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/220px-ANN_logo.svg.png",
       "tv-streaming" : "https://en.gdplayertv.to/embed/ann",
-      "ping" : 6
+      "isSlow" : 0
     },
     {
       "tv-name" : "Mystery Channel",
@@ -87,8 +87,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Mystery Channel adalah saluran film dan drama bergenre misteri yang menampilkan berbagai film dari seluruh dunia dalam bahasa Jepang.",
       "tv-logo" : "https://www.starcat.co.jp/ch/upload/channel/13/mystery_logo.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/mystery-channel",
-      "ping" : 10
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/mystery-channel?embed=1",
+      "isSlow" : 1
     },
     {
       "tv-name" : "AXN TV Indonesia",
@@ -97,7 +97,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "AXN adalah saluran hiburan bergenre aksi milik KC Global Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/axn"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/axn?embed=1",
+      "isSlow" : 1
     },
     {
       "tv-name" : "Abu Dhabi TV",
@@ -106,7 +107,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Abu Dhabi TV adalah saluran televisi dari Uni Emirate Arab yang menampilkan berbagai berita dalam basaha Arab.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Abu_Dhabi_TV.png/200px-Abu_Dhabi_TV.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/abu-dhabi-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/abu-dhabi-tv?embed=1",
+      "isSlow" : 1
     },
     {
       "tv-name" : "Abu Dhabi Sports 1",
@@ -115,7 +117,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "Abu Dhabi Sport adalah saluran olahraga dari Uni Emirates Arab yang dimiliki oleh Abu Dhabi Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/220px-Abu_Dhabi_Sports_logo_2023.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/abu-dhabi-sports-1"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/abu-dhabi-sports-1?embed=1",
+      "isSlow" : 1
     },
     {
       "tv-name" : "Abu Dhabi Sports 2",
@@ -124,7 +127,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "Abu Dhabi Sport adalah saluran olahraga dari Uni Emirates Arab yang dimiliki oleh Abu Dhabi Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/220px-Abu_Dhabi_Sports_logo_2023.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/abu-dhabi-sports-2"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/abu-dhabi-sports-2?embed=1",
+      "isSlow" : 1
     },
     {
       "tv-name" : "Al Jazeera English",
@@ -133,43 +137,8 @@
       "tv-type" : "News",
       "tv-desc" : "Al Jazeera English adalah saluran berita 24 jam yang dimiliki oleh Al Jazeera Media Network yang disiarakan dalam bahasa Inggris.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/UCNye-wNBqNL5ZzHSJj3l8Bg"
-    },
-    {
-      "tv-name" : "Alkass One",
-      "tv-loc" : "Qatar",
-      "tv-lang" : "Arabic",
-      "tv-type" : "Sports",
-      "tv-desc" : "Alkass adalah saluran olahraga dari Qatar yang menampilkan berbagai olahraga dari seluruh wilayah semenanjung arab.",
-      "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/alkass-1"
-    },
-    {
-      "tv-name" : "Alkass Two",
-      "tv-loc" : "Qatar",
-      "tv-lang" : "Arabic",
-      "tv-type" : "Sports",
-      "tv-desc" : "Alkass adalah saluran olahraga dari Qatar yang menampilkan berbagai olahraga dari seluruh wilayah semenanjung arab.",
-      "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/alkass-2"
-    },
-    {
-      "tv-name" : "Alkass Three",
-      "tv-loc" : "Qatar",
-      "tv-lang" : "Arabic",
-      "tv-type" : "Sports",
-      "tv-desc" : "Alkass adalah saluran olahraga dari Qatar yang menampilkan berbagai olahraga dari seluruh wilayah semenanjung arab.",
-      "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/alkass-3"
-    },
-    {
-      "tv-name" : "Alkass Four",
-      "tv-loc" : "Qatar",
-      "tv-lang" : "Arabic",
-      "tv-type" : "Sports",
-      "tv-desc" : "Alkass adalah saluran olahraga dari Qatar yang menampilkan berbagai olahraga dari seluruh wilayah semenanjung arab.",
-      "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/alkass-4"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Anhui TV",
@@ -178,7 +147,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Anhui TV (AHTV) adalah saluran hiburan dari china yang berlokasi di Hefei dan Anhui dan disiarkan dalam bahasa Mandarin.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Anhui_Television.png/120px-Anhui_Television.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/anhui-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/anhui-tv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "AniPlus Indonesia",
@@ -187,7 +157,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Aniplus adlah saluran televisi milik Aniplus Inc. yang menampilkan berbagai anime dengan subtitle Indonesia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/aniplus"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/aniplus",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Animal Planet Japan",
@@ -196,7 +167,8 @@
       "tv-type" : "Dokumenter",
       "tv-desc" : "Animal planet adalah saluran televisi yang menampilkan berbagai series dan dokumentasi tentang hewan liar hingga hewan peliharaan.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/animal-planet-jp"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/animal-planet-jp?alt=0&embed=1",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Animax TV Indonesia",
@@ -205,7 +177,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Animax Adalah saluran hiburan milik KC Global Media yang menampilkan berbagai anime dengan subtitle Indonesia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/250px-Animax_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/animax"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/animax",
+      "isSlow" : 1
     },
     {
       "tv-name" : "Arirang TV",
@@ -214,16 +187,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Arirang TV adalah saluran televisi milik Arirang International Broadcasting yang menyiarkan hiburan, budaya, ekonomi hingga situasi di Korea Selatan.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/250px-Arirang.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/arirang-tv"
-    },
-    {
-      "tv-name" : "Asian Food Network",
-      "tv-loc" : "Singapura",
-      "tv-lang" : "English",
-      "tv-type" : "Lifestyle",
-      "tv-desc" : "Asian Food Network (AFN) adalah saluran televisi milik Warner Bros. Discovery Asia-Pacific yang menampilkan berbagai konten masakan asia.",
-      "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/afn-asian-food-network"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/arirang-tv?embed=1",
+      "isSlow" : 1
     },
     {
       "tv-name" : "Astro Awani",
@@ -232,43 +197,8 @@
       "tv-type" : "News",
       "tv-desc" : "Astro Awani adalah saluran televisi berita dari Malaysia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Astro_Awani_501.png/220px-Astro_Awani_501.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/astro-awani"
-    },
-    {
-      "tv-name" : "Astro Supersport 1",
-      "tv-loc" : "Malaysia",
-      "tv-lang" : "Malaysia",
-      "tv-type" : "Sports",
-      "tv-desc" : "Astro Supersport adalah saluran televisi dari malaysia yang menghadirkan berbagai konten olahraga selama 24 jam.",
-      "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/astro-supersport"
-    },
-    {
-      "tv-name" : "Astro Supersport 2",
-      "tv-loc" : "Malaysia",
-      "tv-lang" : "Malaysia",
-      "tv-type" : "Sports",
-      "tv-desc" : "Astro Supersport adalah saluran televisi dari malaysia yang menghadirkan berbagai konten olahraga selama 24 jam.",
-      "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/astro-supersport-2"
-    },
-    {
-      "tv-name" : "Astro Supersport 3",
-      "tv-loc" : "Malaysia",
-      "tv-lang" : "Malaysia",
-      "tv-type" : "Sports",
-      "tv-desc" : "Astro Supersport adalah saluran televisi dari malaysia yang menghadirkan berbagai konten olahraga selama 24 jam.",
-      "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/astro-supersport-3"
-    },
-    {
-      "tv-name" : "Astro Supersport 4",
-      "tv-loc" : "Malaysia",
-      "tv-lang" : "Malaysia",
-      "tv-type" : "Sports",
-      "tv-desc" : "Astro Supersport adalah saluran televisi dari malaysia yang menghadirkan berbagai konten olahraga selama 24 jam.",
-      "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/astro-supersport-4"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/astro-awani",
+      "isSlow" : 0
     },
     {
       "tv-name" : "BBC Earth",
@@ -277,7 +207,8 @@
       "tv-type" : "Dokumenter",
       "tv-desc" : "BBC Earth adalah saluran milik Pemerintah Britania Raya melalui BBC yang menampilkan berbagai dokumenter yang berkaitan dengan alam.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bbc-earth"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/bbc-earth?embed=1",
+      "isSlow" : 1
     },
     {
       "tv-name" : "BBC News",
@@ -286,7 +217,8 @@
       "tv-type" : "News",
       "tv-desc" : "BBC News adalah saluran milik pemerintah Britania Raya yang menampikan berita dari Inggris dan seluruh dunia selama 24 jam.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bbc-world-news"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/bbc-world-news?embed=1",
+      "isSlow" : 1
     },
     {
       "tv-name" : "BBC CBeebies",
@@ -295,25 +227,8 @@
       "tv-type" : "Kids",
       "tv-desc" : "CBeebies adalah saluran anak-anak milik Pemerintah Britania Raya yang disiarkan melalui BBC.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/230px-CBeebies_2023.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cbeebies"
-    },
-    {
-      "tv-name" : "BEK Sports East",
-      "tv-loc" : "US",
-      "tv-lang" : "English",
-      "tv-type" : "Sports",
-      "tv-desc" : "BEK Sports adalah saluran televisi dari Amerika Serikat yang menghadirkan berita mengenai olahraga di Amerika Serikat.",
-      "tv-logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPha7Mqo_NrIXjeXSwkxqfH4dJpkLHK9ZBl0E63DZGJiEu1mzi-3RctNJB1Vtgsjfi7Dc&usqp=CAU",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bek-sport-east"
-    },
-    {
-      "tv-name" : "BEK Sports West",
-      "tv-loc" : "US",
-      "tv-lang" : "English",
-      "tv-type" : "Sports",
-      "tv-desc" : "BEK Sports adalah saluran televisi dari Amerika Serikat yang menghadirkan berita mengenai olahraga di Amerika Serikat.",
-      "tv-logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPha7Mqo_NrIXjeXSwkxqfH4dJpkLHK9ZBl0E63DZGJiEu1mzi-3RctNJB1Vtgsjfi7Dc&usqp=CAU",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bek-sport-west"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cbeebies",
+      "isSlow" : 1
     },
     {
       "tv-name" : "BS Asahi TV",
@@ -322,7 +237,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "",
       "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bs-asahi-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/bs-asahi-tv?alt=0&embed=1",
+      "isSlow" : 0
     },
     {
       "tv-name" : "BS Nihon Eiga TV",
@@ -331,7 +247,8 @@
       "tv-type" : "Film",
       "tv-desc" : "BS Nihon Eiga TV adalah saluran televisi yang menampilkan berbagai film dan drama Jepang.",
       "tv-logo" : "https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/260.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bs-nihon-eiga"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/bs-nihon-eiga",
+      "isSlow" : 0
     },
     {
       "tv-name" : "BS TBS TV",
@@ -340,7 +257,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "BS-TBS adalah sebuah stasiun televisi di Jepang yang dimiliki oleh Tokyo Broadcasting System (TBS) dengan menawarkan program drama, film, dokumenter, dan program hiburan lainnya.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/220px-BS-TBS_2020.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bs-tbs-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/bs-tbs-tv?embed=1",
+      "isSlow" : 0
     },
     {
       "tv-name" : "BS TV Tokyo",
@@ -349,7 +267,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "BS TV Tokyo adalah saluran televisi berlangganan yang dioperasikan oleh TV Tokyo Corporation dengan menwarkan program drama, variety shows, anime, dokumenter hingga berita dan informasi.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/3/39/BSTVTokyo_2024logo-TeletoVer.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bs-tv-tokyo"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/bs-tv-tokyo",
+      "isSlow" : 0
     },
     {
       "tv-name" : "BS11 Eleven TV",
@@ -358,7 +277,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "BS11 Eleven adalah saluran televisi berlangganan yang dimiliki oleh Nippon BS Broadcasting Corp. yang menawarkan beragam program hiburan termasuk drama, variety shows, anime, dokumenter, serta berita dan informasi.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/150px-BS11_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bs11-eleven"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/bs11-eleven",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Berita RTM TV",
@@ -367,17 +287,10 @@
       "tv-type" : "News",
       "tv-desc" : "Berita RTM adalah saluran berita milik Pemerintah Malaysia yang menyuguhkan berita dari Malaysia dan sekitarnya.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/200px-Logo_Berita_RTM.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/berita-rtm"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/berita-rtm",
+      "isSlow" : 0
     },
-    {
-      "tv-name" : "Bernama TV",
-      "tv-loc" : "Malaysia",
-      "tv-lang" : "Malaysia",
-      "tv-type" : "News",
-      "tv-desc" : "Bernama TV adalah saluran televisi dari Pemerintah Malaysia yang menyampaikan berbagai kejadian yang terjadi di Malaysia.",
-      "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/150px-Bernama_TV.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bernama-tv"
-    },
+
     {
       "tv-name" : "Bioskop Indonesia",
       "tv-loc" : "Indonesia",
@@ -385,7 +298,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Bioskop Indonesia adalah saluran televisi yang dijalankan oleh Transvision dengan memberikan suguhan film-film produksi Indonesia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bioskop-indonesia"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/bioskop-indonesia",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Bloomberg Asia",
@@ -394,7 +308,8 @@
       "tv-type" : "News",
       "tv-desc" : "Bloomberg adalah saluran berita milik Bloomberg L.P. yang berfokus pada bisnis dan finansial.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-asia-btv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-asia-btv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Bloomberg Australia",
@@ -403,7 +318,8 @@
       "tv-type" : "News",
       "tv-desc" : "Bloomberg adalah saluran berita milik Bloomberg L.P. yang berfokus pada bisnis dan finansial.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-australia-btv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-australia-btv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Bloomberg Europe",
@@ -412,7 +328,8 @@
       "tv-type" : "News",
       "tv-desc" : "Bloomberg adalah saluran berita milik Bloomberg L.P. yang berfokus pada bisnis dan finansial.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-europe-btv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-europe-btv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Bloomberg US",
@@ -421,7 +338,8 @@
       "tv-type" : "News",
       "tv-desc" : "Bloomberg adalah saluran berita milik Bloomberg L.P. yang berfokus pada bisnis dan finansial.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-us-btv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-us-btv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Bloomberg US +",
@@ -430,7 +348,8 @@
       "tv-type" : "News",
       "tv-desc" : "Bloomberg adalah saluran berita milik Bloomberg L.P. yang berfokus pada bisnis dan finansial.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-us-btv-plus"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/bloomberg-us-btv-plus",
+      "isSlow" : 0
     },
     {
       "tv-name" : "CBC News",
@@ -439,7 +358,8 @@
       "tv-type" : "News",
       "tv-desc" : "CBC News adalah saluran berita nasional Kanada yang menghadirkan berbagai pertistiwa terkini yang terjadi di Kanada. ",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/6/67/CBC_Logo_1992-Present.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/UCuFFtHWoLl5fauMMD5Ww2jA"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/UCuFFtHWoLl5fauMMD5Ww2jA",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Celestial Classic Movies",
@@ -448,7 +368,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Celestial Classic Movies (CCM) adalah saluran film milik Celestial Tiger Entertaiment yang menampilkan berbagai film jadul dari Asia Timur.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/celestial-classic-movies"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/celestial-classic-movies",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Celestial Movies",
@@ -457,7 +378,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Celestial Movies adalah saluran film milik Celestial Tiger Entertaiment yang menampilkan berbagai film dari Asia Timur.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/8/8a/Celestial_Movies.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/celestial-movies"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/celestial-movies",
+      "isSlow" : 0
     },
     {
       "tv-name" : "CCTV-1",
@@ -466,7 +388,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "China Central Television 1 (CCTV-1) adalah saluran televisi milik Pemerintah Tiongkok yang menampilkan berbagai macam konten hiburan.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/f/f6/CCTV-1_Logo.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv1"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv1",
+      "isSlow" : 0
     },
     {
       "tv-name" : "CCTV-2",
@@ -475,16 +398,8 @@
       "tv-type" : "News",
       "tv-desc" : "China Central Television 2 (CCTV-2) adalah saluran televisi milik Pemerintah Tiongkok yang berfokus pada keuangan.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv2"
-    },
-    {
-      "tv-name" : "CCTV-3",
-      "tv-loc" : "China",
-      "tv-lang" : "Mandarin",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "China Central Television 3 (CCTV-3) adalah saluran televisi milik Pemerintah Tiongkok yang berfokus pada seni dan hiburan.",
-      "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/3/3c/CCTV-3_%E7%BB%BC%E8%89%BA.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv3"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv2",
+      "isSlow" : 0
     },
     {
       "tv-name" : "CCTV-4",
@@ -493,7 +408,8 @@
       "tv-type" : "News",
       "tv-desc" : "China Central Television 4 (CCTV-4) adalah saluran televisi internasional milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv4"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv4",
+      "isSlow" : 0
     },
     {
       "tv-name" : "CCTV-5",
@@ -502,17 +418,10 @@
       "tv-type" : "Sports",
       "tv-desc" : "China Central Television 5 (CCTV-5) adalah saluran penyiaran olahraga milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/5/59/CCTV-5_%E4%BD%93%E8%82%B2.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv5"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv5",
+      "isSlow" : 0
     },
-    {
-      "tv-name" : "CCTV-5+",
-      "tv-loc" : "China",
-      "tv-lang" : "Mandarin",
-      "tv-type" : "Sports",
-      "tv-desc" : "China Central Television 5+ (CCTV-5+) adalah saluran penyiaran olahraga milik Pemerintah Tiongkok.",
-      "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/e/e2/Cctv-5%2B.jpeg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv5-plus"
-    },
+
     {
       "tv-name" : "CCTV-6",
       "tv-loc" : "China",
@@ -520,35 +429,21 @@
       "tv-type" : "Film",
       "tv-desc" : "China Central Television 6 (CCTV-6) adalah saluran penyiaran film milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/2/24/CCTV-6_%E7%94%B5%E5%BD%B1.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv6"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv6",
+      "isSlow" : 0
     },
-    {
-      "tv-name" : "CCTV-7",
-      "tv-loc" : "China",
-      "tv-lang" : "Mandarin",
-      "tv-type" : "News",
-      "tv-desc" : "China Central Television 7 (CCTV-7) adalah saluran penyiaran berita seputar pertahanan nasional dan militer milik Pemerintah Tiongkok.",
-      "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/d/db/CCTV-7_%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv7"
-    },
+
     {
       "tv-name" : "CCTV-8",
       "tv-loc" : "China",
       "tv-lang" : "China",
-      "tv-type" : "Film",
+      "tv-type" : "Entertaiment",
       "tv-desc" : "China Central Television 8 (CCTV-8) adalah saluran penyiaran series drama milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/7/76/CCTV-8_%E7%94%B5%E8%A7%86%E5%89%A7.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv8"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv8",
+      "isSlow" : 0
     },
-    {
-      "tv-name" : "CCTV-9",
-      "tv-loc" : "China",
-      "tv-lang" : "Mandarin",
-      "tv-type" : "Dokumenter",
-      "tv-desc" : "China Central Television 9 (CCTV-9) adalah saluran penyiaran berbagai dokumenter milik Pemerintah Tiongkok.",
-      "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/c/cf/CCTV-9_%E7%BA%AA%E5%BD%95.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv9"
-    },
+
     {
       "tv-name" : "CCTV-13",
       "tv-loc" : "China",
@@ -556,7 +451,8 @@
       "tv-type" : "News",
       "tv-desc" : "China Central Television 13 (CCTV-13) adalah saluran penyiaran berita milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/4/4b/CCTV-13_%E6%96%B0%E9%97%BB.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv13"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv13",
+      "isSlow" : 0
     },
     {
       "tv-name" : "CCTV-14",
@@ -565,7 +461,8 @@
       "tv-type" : "Kids",
       "tv-desc" : "China Central Television 14 (CCTV-14) adalah saluran penyiaran khusus anak-anak milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/4/40/CCTV-14_%E5%B0%91%E5%84%BF.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv14"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv14",
+      "isSlow" : 1
     },
     {
       "tv-name" : "CCTV-15",
@@ -574,7 +471,8 @@
       "tv-type" : "Music",
       "tv-desc" : "China Central Television 15 (CCTV-15) adalah saluran penyiaran khusus musik milik Pemerintah Tiongkok.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/4/46/CCTV-15_%E9%9F%B3%E4%B9%90.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv15"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cctv15",
+      "isSlow" : 1
     },
     {
       "tv-name" : "CGTN TV",
@@ -583,7 +481,8 @@
       "tv-type" : "News",
       "tv-desc" : "China Global Television Network (CGTN) adalah saluran televisi berita internasional yang dioperasikan oleh China Centeral Television (CCTV)",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/8/81/CGTN.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cgtn"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cgtn",
+      "isSlow" : 0
     },
     {
       "tv-name" : "CGTN Documentary",
@@ -592,7 +491,8 @@
       "tv-type" : "Dokumenter",
       "tv-desc" : "CGTN Documentary adalah saluran yang menyajikan dokumenter bersejarah milik China Global Television Network",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cgtn-documentary"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cgtn-documentary",
+      "isSlow" : 0
     },
     {
       "tv-name" : "CNBC Asia",
@@ -601,7 +501,8 @@
       "tv-type" : "News",
       "tv-desc" : "CNBC Asia adalah saluran konsumen berita bisnis di asia di bawah pengawasan NBC Universal dan dikontrol oleh CNBC",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cnbc"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cnbc",
+      "isSlow" : 0
     },
     {
       "tv-name" : "CNBC Indonesia",
@@ -610,7 +511,8 @@
       "tv-type" : "News",
       "tv-desc" : "CNBC Indonesia adalah saluran televisi berita bisnis di Indonesia yang dioperasikan oleh Trans Media.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cnbc-indonesia"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cnbc-indonesia",
+      "isSlow" : 0
     },
     {
       "tv-name" : "CNN",
@@ -619,7 +521,8 @@
       "tv-type" : "News",
       "tv-desc" : "CNN adalah saluran berita 24 jam dari Amerika Serikat. ",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cnn"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cnn",
+      "isSlow" : 1
     },
     {
       "tv-name" : "CNN Indonesia",
@@ -628,7 +531,8 @@
       "tv-type" : "News",
       "tv-desc" : "CNN Indonesia adalah saluran berita 24 jam berbahasa Indonesia yang dioperasikan oleh Trans Media dengan menyajikan konten lokal dan internasional.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cnn-indonesia"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cnn-indonesia",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Cartoon Network Indonesia",
@@ -637,7 +541,8 @@
       "tv-type" : "Kids",
       "tv-desc" : "Cartoon Network adalah saluran televisi Asia yang menyiarkan serial animasi.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-network-asia"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-network-asia",
+      "isSlow" : 1
     },
     {
       "tv-name" : "Cartoon Network Japan",
@@ -646,7 +551,8 @@
       "tv-type" : "Kids",
       "tv-desc" : "Cartoon Network adalah saluran televisi Asia yang menyiarkan serial animasi.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-network-jp"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-network-jp",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Cartoon TV",
@@ -655,7 +561,8 @@
       "tv-type" : "Kids",
       "tv-desc" : "Cartoon TV adalah saluran berisi kartun tanpa dialog yang ditujukan untuk anak usia di bawah 4 tahun.",
       "tv-logo" : "https://www.transvision.co.id/img/channel/new/CARTOON%20TV.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-tv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Cartoon TV Classic",
@@ -664,7 +571,8 @@
       "tv-type" : "Kids",
       "tv-desc" : "Cartoon TV Classis adalah saluran berisi kartun jadul yang ditujukan untuk anak-anak.",
       "tv-logo" : "https://www.transvision.co.id/img/channel/new/CARTOON%20TV.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-tv-classic"
+      "tv-streaming" : "https://en.gdplayertv.to/live-tv/cartoon-tv-classics?embed=1",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Cartoon TV Premium",
@@ -673,16 +581,18 @@
       "tv-type" : "Kids",
       "tv-desc" : "Cartoon TV Premium adalah saluran berisi kartun dengan dialog yang ditujukan untuk anak usia di bawah 5 tahun.",
       "tv-logo" : "https://www.transvision.co.id/img/channel/new/CARTOON%20TV.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-tv-premium"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cartoon-tv-premium",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Channel 5 TV",
       "tv-loc" : "Singapura",
-      "tv-lang" : "Inggris",
+      "tv-lang" : "Inggris, Mandarin",
       "tv-type" : "Entertaiment",
       "tv-desc" : "Channel 5 adalah saluran televisi terestrial dari Singapura yang menyajikan hiburan dan berita dalam bahasa Inggris.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/220px-Mediacorp_Channel_5_2023.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/channel-5"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/channel-5",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Channel 8 TV",
@@ -691,7 +601,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Channel 8 adalah saluran televisi terestrial dari Singapura yang menyajikan hiburan dan berita dalam bahasa Mandarin.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/220px-Mediacorp_Channel_8_2023.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/channel-8"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/channel-8",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Channel U TV",
@@ -700,7 +611,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Channel U adalah saluran televisi terestrial dari Singapura yang menyajikan hiburan yang ditujukan untuk anak muda.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/200px-Mediacorp_Channel_U_2023.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/channel-u"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/channel-u",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Channel A TV",
@@ -709,7 +621,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Channel A adalah saluran televisi kabel dari Korea Selatan yang menyajikan berbagai hiburan berupa serial drama Korea.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Channel_A_Logo_transparent.png/220px-Channel_A_Logo_transparent.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/channel-a"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/channel-a",
+      "isSlow" : 0
     },
     {
       "tv-name" : "CNA",
@@ -718,7 +631,8 @@
       "tv-type" : "News",
       "tv-desc" : "CNA adalah saluran berita dari Singapura yang menyajikan berbagai berita yang terjadi di Asia.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cna"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cna",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Cinemachi TV",
@@ -727,7 +641,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Cinemachi adalah saluran televisi yang menampilkan berbagai film Hollywood dan studio film ternama lainnya.",
       "tv-logo" : "https://www.mncvision.id/userfiles/image/channel/channel_7.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Cinemachi Action",
@@ -736,7 +651,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Cinemachi Action adalah saluran film bergenre aksi dari berbagai studio film ternama.",
       "tv-logo" : "https://www.mncvision.id/userfiles/image/channel/channel_8.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi-action"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi-action",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Cinemachi Xtra",
@@ -745,7 +661,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Cinemachi Xtra adalah saluran film milik Mimyuni Media Entertaiment yang menampilkan berbagai film Holywood",
       "tv-logo" : "https://www.mncvision.id/userfiles/image/channel/channel_6.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi-xtra"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi-xtra",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Cinemachi Kids",
@@ -754,7 +671,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Cinemachi Kids adalah saluran khusus anak-anak milik Mimyuni Media Entertaiment.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/a/ac/Cinemachi_kids_logo.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi-kids"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cinemachi-kids",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Cinemax",
@@ -763,7 +681,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Cinemax adalah saluran televisi berbayar yang menyajikan film bergenre aksi, horor hingga komedi.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/cinemax"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/cinemax",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Citra Drama",
@@ -772,7 +691,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Citra Drama adalah saluran televisi dari Emtek yang menyajikan berbagai film lokal.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/7/74/Citra_Drama_Logo_September_2019.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/citra-drama-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/citra-drama-tv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Crime + Investigation",
@@ -781,7 +701,8 @@
       "tv-type" : "Dokumenter",
       "tv-desc" : "Crime + Investigation adalah saluran dokumenter kriminal, investigasi dan misteri.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Crime_and_Investigation_logo.png/200px-Crime_and_Investigation_logo.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/crime-investigation"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/crime-investigation",
+      "isSlow" : 0
     },
     {
       "tv-name" : "DW English",
@@ -790,7 +711,8 @@
       "tv-type" : "News",
       "tv-desc" : "DW adalah saluran televisi yang berfokus pada berita dan informasi dari Jerman dengan bahasa Inggris.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/dw-english"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/dw-english",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Discovery Indonesia",
@@ -799,7 +721,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Discovery adalah saluran televisi berbayar dari Amerika yang menyediakan tayangan dokumenter sains, teknologi dan sejarah.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/discovery"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/discovery",
+      "isSlow" : 1
     },
     {
       "tv-name" : "Discovery Australia",
@@ -808,7 +731,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Discovery adalah saluran televisi berbayar dari Amerika yang menyediakan tayangan dokumenter sains, teknologi dan sejarah.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/UCsnsCFJMPIJaUSVP_hLVUCA"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/UCsnsCFJMPIJaUSVP_hLVUCA",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Discovery Turbo",
@@ -817,7 +741,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "Discovery adalah saluran televisi berbayar dari Amerika yang menyediakan tayangan olahraga.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/discovery-turbo"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/discovery-turbo",
+      "isSlow" : 0
     },
     {
       "tv-name" : "DreamWorks Channel",
@@ -826,7 +751,8 @@
       "tv-type" : "Film",
       "tv-desc" : "DreamWorks Channel adalah saluran televisi yang menyediakan berbagai animasi untuk anak-anak.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/220px-DreamWorks_Channel_Logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/dreamworks"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/dreamworks",
+      "isSlow" : 1
     },
     {
       "tv-name" : "Dubai One",
@@ -835,7 +761,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Dubai One adalah saluran hiburan dari Uni Emirates Arab yang menyediakan konten lokal dan internasional untuk penonton Non-Arab.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/d/d5/Dubai_One_logo_2016.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-one-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-one-tv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Dubai Racing 1",
@@ -844,7 +771,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "Dubai Racing adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/1/1f/Dubai_Racing_2023.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-racing-1-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-racing-1-tv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Dubai Racing 2",
@@ -853,7 +781,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "Dubai Racing adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/1/1f/Dubai_Racing_2023.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-racing-2-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-racing-2-tv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Dubai Racing 3",
@@ -862,7 +791,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "Dubai Racing adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/1/1f/Dubai_Racing_2023.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-racing-3-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-racing-3-tv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Dubai Sports 1",
@@ -871,7 +801,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "Dubai Sports adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dubai_Sports_logo_2023.png/220px-Dubai_Sports_logo_2023.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-sports-1"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-sports-1",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Dubai Sports 2",
@@ -880,7 +811,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "Dubai Sports adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dubai_Sports_logo_2023.png/220px-Dubai_Sports_logo_2023.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-sports-2"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-sports-2",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Dubai Sports 3",
@@ -889,7 +821,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "Dubai Sports adalah saluran televisi yang menyajikan berbagai acara olahraga dalam bahasa Arab dari UEA.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dubai_Sports_logo_2023.png/220px-Dubai_Sports_logo_2023.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-sports-3"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/dubai-sports-3",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Dunia Sinema",
@@ -898,7 +831,8 @@
       "tv-type" : "Film",
       "tv-desc" : "Dunia Sinema adalah saluran televisi dari Malaysia yang mneyajikan berbagai film dari Malaysia dan Indonesia.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/dunia-sinema"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/dunia-sinema",
+      "isSlow" : 0
     },
     {
       "tv-name" : "EBS 1",
@@ -907,7 +841,8 @@
       "tv-type" : "Kids",
       "tv-desc" : "EBS adalah saluran televisi terestrial dari Korea Selatan yang menyajikan dokumenter untuk pendidikan anak-anak.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/c/ce/Ebs1_2023_logo.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/ebs1"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/ebs1",
+      "isSlow" : 0
     },
     {
       "tv-name" : "EBS 2",
@@ -916,7 +851,8 @@
       "tv-type" : "Kids",
       "tv-desc" : "EBS adalah saluran televisi terestrial dari Korea Selatan yang menyajikan dokumenter untuk pendidikan anak-anak.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/4/4e/Ebs2_2023_logo.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/ebs2"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/ebs2",
+      "isSlow" : 1
     },
     {
       "tv-name" : "ESPN",
@@ -925,16 +861,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "ESPN adalah saluran televisi internasional dari Amerika Serikat yang menyajikan berbagai acara olahraga.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/espn"
-    },
-    {
-      "tv-name" : "ESPN 2",
-      "tv-loc" : "US",
-      "tv-lang" : "Inggris",
-      "tv-type" : "Sports",
-      "tv-desc" : "ESPN adalah saluran televisi internasional dari Amerika Serikat yang menyajikan berbagai acara olahraga.",
-      "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/espn-2"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/espn",
+      "isSlow" : 0
     },
     {
       "tv-name" : "FOX News",
@@ -943,7 +871,8 @@
       "tv-type" : "News",
       "tv-desc" : "FOX News adalah saluran televisi berita multinasional dan politik yang berbasis di New York, Amerika Serikat.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/fox-news"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/fox-news",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Live Now From FOX",
@@ -952,16 +881,18 @@
       "tv-type" : "News",
       "tv-desc" : "Live Now From Fox adalah saluran berita yang sedang terjadi secara langsung atau breaking news dari Amerika Serikat.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/250px-LiveNOW_from_FOX.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/live-now-fox"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/live-now-fox",
+      "isSlow" : 0
     },
     {
-      "tv-name" : "FOX Sports 1",
+      "tv-name" : "FOX Sports 1 (OFF)",
       "tv-loc" : "US",
       "tv-lang" : "English",
       "tv-type" : "Sports",
       "tv-desc" : "Fox Sports adalah saluran televisi berbayar dari Amerika Serikat yang menghadirkan berbagai acara olahraga.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/fox-sports-1"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/fox-sports-1",
+      "isSlow" : 1
     },
     {
       "tv-name" : "FOX Sports 2",
@@ -970,7 +901,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "Fox Sports adalah saluran televisi berbayar dari Amerika Serikat yang menghadirkan berbagai acara olahraga.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/200px-FS2_logo_2015.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/fox-sports-2"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/fox-sports-2",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Fuji TV",
@@ -979,7 +911,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "Fuji TV adalah saluran televisi terestrial dari Jepang yang menyajikan berbagai acara menarik dalam bahasa Jepang.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/fuji-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/fuji-tv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "BS Fuji TV",
@@ -988,7 +921,8 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "BS Fuji TV adalah saluran televisi broadcast dari Jepang yang menyajikan berbagai acara menarik dalam bahasa Jepang.",
       "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/1/11/BSF1.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bs-fuji-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/bs-fuji-tv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "Gaora TV",
@@ -997,7 +931,8 @@
       "tv-type" : "Sports",
       "tv-desc" : "Gaora TV adalah saluran televisi yang menyajikan berbagai acara olahraga dari Jepang.",
       "tv-logo" : "https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/gaora-sports-tv"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/gaora-sports-tv",
+      "isSlow" : 0
     },
     {
       "tv-name" : "GB News",
@@ -1006,7 +941,8 @@
       "tv-type" : "News",
       "tv-desc" : "GB News adalah saluran berita dari London, Britania Raya.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/220px-GB_News_Logo.svg.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/UC0vn8ISa4LKMunLbzaXLnOQ"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/UC0vn8ISa4LKMunLbzaXLnOQ",
+      "isSlow" : 0
     },
     {
       "tv-name" : "GEM TV English",
@@ -1015,574 +951,3795 @@
       "tv-type" : "Entertaiment",
       "tv-desc" : "GEM adalah saluran televisi yang dioperasikan oleh KC Global Media Asia dengan menawarkan berbagai hiburan untuk kawasan Asia Tenggara.",
       "tv-logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/180px-Gem_TV_logo_2020.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/gem-tv-en"
+      "tv-streaming" : "https://en.gdplayertv.to/embed/gem-tv-en",
+      "isSlow" : 0
     },
     {
-      "tv-name" : "Galaxy",
-      "tv-loc" : "Indonesia",
-      "tv-lang" : "Inggris",
-      "tv-type" : "Film",
-      "tv-desc" : "Galaxy adalah saluran film milik Tripar Multivision Plus yang menampilkan berbagai film Hollywood.",
-      "tv-logo" : "https://www.mncvision.id/userfiles/image/channel/channel_13.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/galaxy"
-    },
-    {
-      "tv-name" : "Galaxy Premium",
-      "tv-loc" : "Indonesia",
-      "tv-lang" : "Inggris",
-      "tv-type" : "Film",
-      "tv-desc" : "Galaxy adalah saluran film milik Tripar Multivision Plus yang menampilkan berbagai film Hollywood.",
-      "tv-logo" : "https://www.mncvision.id/userfiles/image/channel/channel_12.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/galax-premium"
-    },
-    {
-      "tv-name" : "Global Trekker",
-      "tv-loc" : "Singapura",
-      "tv-lang" : "Inggris",
-      "tv-type" : "Lifestyle",
-      "tv-desc" : "Global Trekker adalah saluran televisi dokumenter multi-genre milik ROCK Entertaiment Holdings.",
-      "tv-logo" : "https://static.wikia.nocookie.net/logopedia/images/9/92/GlobalTrekker_remaster.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/global-trekker"
-    },
-    {
-      "tv-name" : "Green Channel",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Sports",
-      "tv-desc" : "Green Channel adalah saluran televisi satelit yang menyediakan acara olahraga, pertanian dan perikanan dari Jepang.",
-      "tv-logo" : "https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/green-channel"
-    },
-    {
-      "tv-name" : "Gusto TV",
-      "tv-loc" : "Kanada",
-      "tv-lang" : "English",
-      "tv-type" : "Lifestyle",
-      "tv-desc" : "Gusto TV adalah saluran televisi dari Kanada yang menyajikan berbagai acara memasak.",
-      "tv-logo" : "https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/gusto-tv"
-    },
-    {
-      "tv-name" : "HBO",
-      "tv-loc" : "Indonesia",
-      "tv-lang" : "Indonesia",
-      "tv-type" : "Film",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/hbo"
-    },
-    {
-      "tv-name" : "HBO Family",
-      "tv-loc" : "Indonesia",
-      "tv-lang" : "Indonesia",
-      "tv-type" : "Film",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/hbo-family"
-    },
-    {
-      "tv-name" : "HBO Signature",
-      "tv-loc" : "Indonesia",
-      "tv-lang" : "Indonesia",
-      "tv-type" : "Film",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/hbo-signature"
-    },
-    {
-      "tv-name" : "History TV",
-      "tv-loc" : "Singapura",
-      "tv-lang" : "Inggris",
-      "tv-type" : "Dokumenter",
-      "tv-desc" : "History TV adalah saluran dokumenter sejarah milik A&E Network.",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/history"
-    },
-    {
-      "tv-name" : "Home Drama",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Film",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/home-drama-channel"
-    },
-    {
-      "tv-name" : "Hunan TV",
-      "tv-loc" : "China",
-      "tv-lang" : "China",
-      "tv-type" : "Film",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/hunan-tv"
-    },
-    {
-      "tv-name" : "India TV",
-      "tv-loc" : "India",
-      "tv-lang" : "Hindi",
-      "tv-type" : "News",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/UCttspZesZIDEwwpVIgoZtWQ"
-    },
-    {
-      "tv-name" : "J Sports 1",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Sports",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/j-sports-1"
-    },
-    {
-      "tv-name" : "J Sports 2",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Sports",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/j-sports-2"
-    },
-    {
-      "tv-name" : "J Sports 3",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Sports",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/j-sports-3"
-    },
-    {
-      "tv-name" : "J Sports 4",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Sports",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/j-sports-4"
-    },
-    {
-      "tv-name" : "Jiangsu TV",
-      "tv-loc" : "China",
-      "tv-lang" : "China",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/jiangsu-tv"
-    },
-    {
-      "tv-name" : "KBS 1",
-      "tv-loc" : "Korea Selatan",
-      "tv-lang" : "Korea",
-      "tv-type" : "News",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-1"
-    },
-    {
-      "tv-name" : "KBS 2",
-      "tv-loc" : "Korea Selatan",
-      "tv-lang" : "Korea",
-      "tv-type" : "News",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-2"
-    },
-    {
-      "tv-name" : "KBS Drama",
-      "tv-loc" : "Korea Selatan",
-      "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-drama"
-    },
-    {
-      "tv-name" : "KBS Joy",
-      "tv-loc" : "Korea Selatan",
-      "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-joy"
-    },
-    {
-      "tv-name" : "KBS Kids",
-      "tv-loc" : "Korea Selatan",
-      "tv-lang" : "Korea",
-      "tv-type" : "Kids",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-kids"
-    },
-    {
-      "tv-name" : "KBS Life",
-      "tv-loc" : "Korea Selatan",
-      "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-life"
-    },
-    {
-      "tv-name" : "KBS Story",
-      "tv-loc" : "Korea Selatan",
-      "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-story"
-    },
-    {
-      "tv-name" : "KBS World",
-      "tv-loc" : "Korea Selatan",
-      "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/kbs-world"
-    },
-    {
-      "tv-name" : "Kids Station",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Kids",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/kids-station"
-    },
-    {
-      "tv-name" : "Kids TV",
-      "tv-loc" : "Indonesia",
-      "tv-lang" : "Indonesia",
-      "tv-type" : "Kids",
-      "tv-desc" : "Kids TV adalah saluran khusus anak-anak yang dimiliki oleh MNC Media.",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/kids-tv"
-    },
-    {
-      "tv-name" : "Kplus (K+)",
-      "tv-loc" : "Indonesia",
-      "tv-lang" : "Indonesia",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/kplus"
-    },
-    {
-      "tv-name" : "Lifetime",
-      "tv-loc" : "Britania Raya",
-      "tv-lang" : "Inggris",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "Lifetime adalah saluran hiburan dan gaya hidup wanita milik A&E Network.",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/lifetime-tv"
-    },
-    {
-      "tv-name" : "Love Nature",
-      "tv-loc" : "Singapura",
-      "tv-lang" : "Inggris",
-      "tv-type" : "Dokumenter",
-      "tv-desc" : "Love Nature adalah saluran dokumenter alam milik ROCK Entertaiments Holding.",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/love-nature-tv"
-    },
-    {
-      "tv-name" : "MBC TV",
-      "tv-loc" : "Korea Selatan",
-      "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/mbc"
-    },
-    {
-      "tv-name" : "MBS TV",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/mbs-tv"
-    },
-    {
-      "tv-name" : "Moviesphere",
-      "tv-loc" : "US",
-      "tv-lang" : "English",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/moviesphere"
-    },
-    {
-      "tv-name" : "MTV Live Asia",
-      "tv-loc" : "US",
-      "tv-lang" : "English",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/mtv-live"
-    },
-    {
-      "tv-name" : "Mentari TV",
-      "tv-loc" : "Indonesia",
-      "tv-lang" : "Indonesia",
-      "tv-type" : "Kids",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/mentari-tv"
-    },
-    {
-      "tv-name" : "Movie Plus TV",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Film",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/movie-plus-tv-jp"
-    },
-    {
-      "tv-name" : "Music TV",
-      "tv-loc" : "Indonesia",
-      "tv-lang" : "Indonesia",
-      "tv-type" : "Music",
-      "tv-desc" : "Music TV adalah saluran khusus milik MNC Media yang menampilkan berbagai video klip musik.",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/music-tv"
-    },
-    {
-      "tv-name" : "My Cinema Asia",
-      "tv-loc" : "Indonesia",
-      "tv-lang" : "Mandarin, Kanton, Korea, Thailand",
-      "tv-type" : "Film",
-      "tv-desc" : "My Cinema Asia adalah saluran perfilman yang dimiliki oleh MT Entertaiment dengan menampilkan berbagai film Asia.",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/my-cinema-asia"
-    },
-    {
-      "tv-name" : "My Cinema Europe",
-      "tv-loc" : "Indonesia",
-      "tv-lang" : "English",
-      "tv-type" : "Film",
-      "tv-desc" : "My Cinema Europe adalah saluran perfilman yang dimiliki oleh MT Entertaiment dengan menampilkan berbagai film dari Eropa.",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/my-cinema-europe"
-    },
-    {
-      "tv-name" : "NBC News",
-      "tv-loc" : "US",
-      "tv-lang" : "English",
-      "tv-type" : "News",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/UCeY0bbntWzzVIaj2z3QigXg"
-    },
-    {
-      "tv-name" : "NHK BS",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/nhk-bs1-tv"
-    },
-    {
-      "tv-name" : "NHK BS Premium",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/nhk-bsp-tv"
-    },
-    {
-      "tv-name" : "NHK World",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "English",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/nhk-world"
-    },
-    {
-      "tv-name" : "NTV",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/nippon-ntv"
-    },
-    {
-      "tv-name" : "NTV Plus",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/ntv-plus"
-    },
-    {
-      "tv-name" : "BS NTV",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/bs-ntv"
-    },
-    {
-      "tv-name" : "NTV News 24",
-      "tv-loc" : "Jepang",
-      "tv-lang" : "Jepang",
-      "tv-type" : "News",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/ntv-news-24"
-    },
-    {
-      "tv-name" : "NAT GEO",
-      "tv-loc" : "US",
-      "tv-lang" : "English",
-      "tv-type" : "Knowledge",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/nat-geo"
-    },
-    {
-      "tv-name" : "NAT GEO Japan",
-      "tv-loc" : "US",
-      "tv-lang" : "Jepang",
-      "tv-type" : "Knowledge",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/nat-geo-jp"
-    },
-    {
-      "tv-name" : "NAT GEO WILD",
-      "tv-loc" : "US",
-      "tv-lang" : "English",
-      "tv-type" : "Knowledge",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/UCDPk9MG2RexnOMGTD-YnSnA"
-    },
-    {
-      "tv-name" : "NAT GEO Kids",
-      "tv-loc" : "US",
-      "tv-lang" : "English",
-      "tv-type" : "Knowledge",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/UCXVCgDuD_QCkI7gTKU7-tpgv"
-    },
-    {
-      "tv-name" : "Nick Jr.",
-      "tv-loc" : "Singapura",
-      "tv-lang" : "Inggris, Indonesia",
-      "tv-type" : "Kids",
-      "tv-desc" : "Nick Jr. adalah saluran khusus anak-anak milik Paramount Media Networks.",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/nick-junior"
-    },
-    {
-      "tv-name" : "Nickelodeon",
-      "tv-loc" : "Singapura",
-      "tv-lang" : "Inggris, Indonesia",
-      "tv-type" : "Kids",
-      "tv-desc" : "Nickelodeon adalah saluran anak-anak milik Paramount Media Networks yang menampilkan berbagai kartun untuk anak-anak.",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/nickelodeon"
-    },
-    {
-      "tv-name" : "Nickelodeon Indonesia",
-      "tv-loc" : "US",
-      "tv-lang" : "Indonesia",
-      "tv-type" : "Kids",
-      "tv-desc" : "Nickelodeon Indonesia adalah saluran anak-anak dari Nickelodeon berbahasa Indonesia yang disiarkan melalui Youtube.",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/UCTJDdO9klWGpTekswnXreGQ"
-    },
-    {
-      "tv-name" : "One TV Indonesia",
-      "tv-loc" : "Singapura",
-      "tv-lang" : "Korea",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "One TV adalah saluran milik KC Global Media yang menampilkan berbagai program-program hiburan dari Korea",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/one"
-    },
-    {
-      "tv-name" : "Oman Sports",
-      "tv-loc" : "Oman",
-      "tv-lang" : "Arabic",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/oman-sports"
-    },
-    {
-      "tv-name" : "Peacock Jr",
-      "tv-loc" : "US",
-      "tv-lang" : "English",
-      "tv-type" : "Kids",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/UCKtfozhWfwvXUTnR7PV3t5g"
-    },
-    {
-      "tv-name" : "Polimer News",
-      "tv-loc" : "India",
-      "tv-lang" : "Urdu",
-      "tv-type" : "News",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/UC8Z-VjXBtDJTvq6aqkIskPg"
-    },
-    {
-      "tv-name" : "Premier League TV",
-      "tv-loc" : "Britania Raya",
-      "tv-lang" : "English",
-      "tv-type" : "Sports",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/premier-league"
-    },
-    {
-      "tv-name" : "Qello Concerts By Stingray",
-      "tv-loc" : "Kanada",
-      "tv-lang" : "English",
-      "tv-type" : "Music",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/qello-concerts-by-stingray"
-    },
-    {
-      "tv-name" : "Racing.com TV",
-      "tv-loc" : "Australia",
-      "tv-lang" : "English",
-      "tv-type" : "Sports",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/racingcom-tv"
-    },
-    {
-      "tv-name" : "Red Bull TV",
-      "tv-loc" : "Austria",
-      "tv-lang" : "English",
-      "tv-type" : "Sports",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/red-bull-tv"
-    },
-    {
-      "tv-name" : "Right Now TV",
-      "tv-loc" : "US",
-      "tv-lang" : "English",
-      "tv-type" : "Entertaiment",
-      "tv-desc" : "",
-      "tv-logo" : "",
-      "tv-streaming" : "https://en.gdplayertv.to/embed/right-now-tv"
-    }
+      "tv-name": "HBO Family TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/hbo-family.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/hbo-family/?embed=1",
+      "isSlow": 0
+  },
+
+  {
+      "tv-name": "HBO Hits TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/hbo-hits.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/hbo-hits/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "HBO Signature TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/hbo-signature.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/hbo-signature/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "HBO TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/hbo.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/hbo/?embed=1",
+      "isSlow": 0
+  },
+
+  {
+      "tv-name": "Habert\u00fcrk TV",
+      "tv-loc": "Turkiye",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/ukCrRkXonAVl29DJoIiDfasQ9Kvic5jV-ZLR5Osmnnqs5KyQEjvOyO-3MOb2aFR2hHgInrV_LA=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCn6dNfiRE_Xunu7iMyvD7AA/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Hasbro",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/nhnLRHxaz6vOhO4_vovt7D_-Ld-xcfsefooktuCvO673c8D07BpGvX202hLuFAqfepT0UCSM2nA=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC-r13SLLdZtZNmuC2bMnlmw/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Hip Hip Horee TV (OFF)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/hip-hip-horee-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/hip-hip-horee-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "History TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/history-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/history/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "History TV Japan",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/history-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/history-channel-jp/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Hits Movies TV (OFF)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/hits-movies.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/hits-movies/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Hits NOW TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/hits-now-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/hits-now/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Hits TV (OFF)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/hits.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/hits/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Home Drama Channel",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/home-drama-channel.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/home-drama-channel/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Horee TV (OFF)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/horee-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/horee-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Horse & Country TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/horse-and-country.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/horse-country-tv/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Hunan TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/hunan-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/hunan-tv/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "IMC (Indonesia Movie Channels) TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/imc.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/imc/?embed=1",
+      "isSlow": 1
+  },
+
+  {
+      "tv-name": "Indosiar TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/indosiar.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/indosiar/?embed=1&alt=0",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "J Sports 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/j-sports-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/j-sports-1/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "J Sports 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/j-sports-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/j-sports-2/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "J Sports 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/j-sports-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/j-sports-3/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "J Sports 4 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/j-sports-4.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/j-sports-4/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "JTBC Golf TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://i.imgur.com/eBzmHK4.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/jtbc-golf/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "JTBC TV (OFF)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/jtbc.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/jtbc/?embed=1",
+      "isSlow": 1
+  },
+
+  {
+      "tv-name": "Jiangsu TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/jiangsu-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/jiangsu-tv/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "KBS 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kbs-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kbs-1/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "KBS 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kbs-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kbs-2/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "KBS Drama TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kbs-drama.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kbs-drama/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "KBS Joy TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kbs-joy.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kbs-joy/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "KBS Kids TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kbs-kids.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kbs-kids/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "KBS Kyoto TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kbs-kyoto.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kbs-kyoto/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "KBS Life TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kbs-life.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kbs-life/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "KBS News D TV (OFF)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kbs-news-d.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kbs-news-d/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "KBS Story TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kbs-story.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kbs-story/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "KBS WORLD TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/ytc/AIdro_nYneSzNh7_fxCLOOkFxVaMDd55aFmPFY9NvFb_i-R8EKjE=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC5BMQOsAB8hKUyHu9KI6yig/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "KBS World TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kbs-world.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kbs-world/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "KIX TV (OFF)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kix.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kix/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Kansai TV (KTV)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kansai-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kansai-tv/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Kapamilya Online",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kapamilya-online.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kapamilya-online/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Kayo Pops Channel",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kayo-pops-channel.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kayo-pops-channel/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Kids Station TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kids-station.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kids-station/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Kids TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mnc-kids-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kids-tv/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Korea Central TV (KCNA)",
+      "tv-loc": "Korea Utara",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kc-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kc-tv/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Kplus (K+) TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/kplus.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/kplus/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Lala TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/lala-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/lala-tv/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Lifetime TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/lifetime-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/lifetime-tv/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Love Nature TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/love-nature-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/love-nature-tv/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "MBC America TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mbc-america.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/mbc-america/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "MBC TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mbc.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/mbc/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "MBS TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mbs-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/mbs-tv/?embed=1",
+      "isSlow": 0
+  },
+
+  {
+      "tv-name": "MOVIESPHERE TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/moviesphere.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/moviesphere/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "MTV 90s",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mtv-90s.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/mtv-90s/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "MTV Japan",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mtv-japan.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/mtv-jp/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "MTV Live Asia",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mtv-live.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/mtv-live/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "MTV Live USA (OFF)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mtv-live-usa.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/mtv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "MUSIC AIR TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/music-air-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/music-air-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "MUSIC ON! TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/music-on-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/music-on-tv/?embed=1",
+      "isSlow": 1
+  },
+
+  {
+      "tv-name": "Marvel HQ",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/Rvkiiw3Wc8NECH5mAFkqITKfo69CHuWyvlO806M7GDcZpHazi_qpvNz8uiz25wMxhAAMlP22Yw=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCxwitsUVNzwS5XBSC5UQV8Q/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Mentari TV",
+      "tv-loc": "Indonesia",
+      "tv-lang": "Indonesia",
+      "tv-type": "Kids",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mentari-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/mentari-tv/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Mnet TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mnet.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/mnet/?embed=1",
+      "isSlow": 0
+  },
+  {
+      "tv-name": "Moji TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/moji-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/moji-tv/?embed=1",
+      "isSlow": 0
+  },
+
+  {
+      "tv-name": "Movie Plus TV Japan",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/movie-plus-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/movie-plus-tv-jp/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Muse Asia",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/p2cg2LI1SBuY6c5dkXLhMVORpbMQ3AZGb-lmHqBaFM6qkceq2EdqDER9cRhw_KFGoBQRioia=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCGbshtvS9t-8CW11W7TooQg/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Muse Indonesia",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/LYDPdal2Sfz6qxwBg2lKGF0s2tcAwWA4YPhJs29BNWVRIs7pxEIerXkofgZqXnmmCpyuWgkA=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCxxnxya_32jcKj4yN1_kD7A/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Music Japan TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/music-japan-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/music-japan-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Music TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/music-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/music-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Music Top TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/music-top-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/music-top-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Musik Indonesia TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/musik-indonesia-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/musik-indonesia-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "My Cinema Asia TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mca.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/my-cinema-asia/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "My Cinema Europe TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/my-cinema-europe.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/my-cinema-europe/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "My Cinema TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mcn.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/my-cinema/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "My Family Channel TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/mfc.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/my-family-channel/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "My Kidz TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/my-kidz.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/my-kidz/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Mystery Channel",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://i.imgur.com/DYL1uEH.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/mystery-channel/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NASA",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/2kw8s66dhLUegJ3XrqZSkZMfp77CRhCfYm1NurDwDB2L9sT_-CaoUix_iWjoE_t66b07JzoR=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCLA_DiR1FfKNvjuUpBHmylQ/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NASA TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nasa-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nasa-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NASASpaceflight",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/puvn6sDVkgfFFojw_9MuWfu4bebSBtK7HM-0OrXGO8stqphm5rnuswA15aflzvs1Rv-zvjEwYw=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCSUu1lih2RifWkKtDOJdsBA/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NBA TV Indonesia",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nba-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nba/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NBA TV USA",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nba-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nba-usa/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NBC News",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/GjDLYFGF4IQaUobUK-6q3nOsU4o8fRMl4XgVipPWRqdRVt61s2LqgnbBXu3-qYL4Ab2xsfVo=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCeY0bbntWzzVIaj2z3QigXg/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NBC News Now TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nbc-news-now.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nbc-news-now/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NFL Network TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nfl-network.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nfl-network/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NHK BS Premium (NHK BSP4K) TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nhk-bsp.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nhk-bsp-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NHK BS1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nhk-bs1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nhk-bs1-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NHK E TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nhk-educational-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nhk-educational-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NHK E TV Osaka",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nhk-educational-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nhk-educational-tv-osaka/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NHK G TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nhk-general-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nhk-general-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NHK G TV Osaka",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nhk-general-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nhk-general-tv-osaka/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NHK WORLD-JAPAN",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/ytc/AIdro_lx4Jy4TRPyT9HAABgGQWgb-jx2_mJ0c6gvpJiGX19em5E=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCSPEjw8F2nQDtmUKPFNF7_A/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NHK World TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nhk-world.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nhk-world/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NHL Network TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nhl-network.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nhl-network/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NOW",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/Eiw9mtVwaV-ewRpPzZygX3cEIPUPV11x4XcfzEYVbwsLnrfya_XPh8TZb3pddLyhfaokgJkugA=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCJe13zu6MyE6Oueac41KAqg/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NOW 70s TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/now-70s.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/now-70s/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NOW 80s TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/now-80s.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/now-80s/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NOW Rock TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/now-rock.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/now-rock/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "NTV Plus",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ntv-plus.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ntv-plus/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nat Geo Kids",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/OsILVN24vcOj1TCJAy15Z_TFY1eYnDVj3EMnQIv5TreYmskDhtVn1Sz1IeBjoexUxjmXgKdO2Q=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCXVCgDuD_QCkI7gTKU7-tpg/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nat Geo TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nat-geo.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nat-geo/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nat Geo TV Japan",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nat-geo.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nat-geo-jp/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nat Geo WILD",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/RRL8O751UsFCCL1U6tVCLlWr19skngM4dbAEb6EGE4Rcqqz842sf9bQGBk3IfnPlkcFvNyknyA=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCDPk9MG2RexnOMGTD-YnSnA/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nat Geo Wild TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nat-geo-wild.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nat-geo-wild/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nick Junior TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nick-junior.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nick-junior/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nickelodeon Bahasa",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/owJBeyxphe6oRo9RCnFhCa0OaUBbTuhABzyQIhzPAacVHVpwoK2mg2RMMXbZBg3J4ZYELurD=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCTJDdO9klWGpTekswnXreGQ/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nickelodeon TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nickelodeon.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nickelodeon/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nickelodeon em Portugu\u00eas",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/owJBeyxphe6oRo9RCnFhCa0OaUBbTuhABzyQIhzPAacVHVpwoK2mg2RMMXbZBg3J4ZYELurD=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCMryAHWeLf3TxDyDxSWs4AQ/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nickelodeon en Espa\u00f1ol",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/owJBeyxphe6oRo9RCnFhCa0OaUBbTuhABzyQIhzPAacVHVpwoK2mg2RMMXbZBg3J4ZYELurD=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCNeq3Obf4zOv5rhORI8Vz5g/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nicktoons",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/N7FScPnTzPHS8IC2lM1zEn3K2MCQS7B7dcqfk6r1aEyGp4PZucl3VfMi3YADgitbP0Olmc2G=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC74bcC7aGRNz4KoRpJsJNEw/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nippon News 24 (NTV News 24)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ntv-news-24.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ntv-news-24/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nippon TV (NTV)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/nippon-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/nippon-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Nittere G+ (NTV G+)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ntv-g-plus.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ntv-g-plus/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "OCN Movies 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ocn-movies.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ocn-movies-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "OCN Movies TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ocn-movies.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ocn-movies/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "OCN TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ocn.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ocn/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "ONE TV Indonesia",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/onetv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/one/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Oman Sports TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/oman-sports.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/oman-sports/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Osratouna tv - \u0642\u0646\u0627\u0629 \u0623\u0633\u0631\u062a\u0646\u0627",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/DOenUx5MxnD_nOo2KbNoos2--HWaWUGVewW16t_zKs2FM6U5rRYbGoH0MsKNfebWJ9DpUmAk0w=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCWIdqSQekeGmUWlSFeCiEnA/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Paramount Network TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/paramount-network.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/paramount-network/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Peacock jr",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/ytc/AIdro_m7VmSLfYJrR91itMagwg9hmst0uEonKvlccKPSL75sbKg=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCKtfozhWfwvXUTnR7PV3t5g/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Phoenix Chinese Channel",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/phoenix-chinese-channel.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/phoenix-chinese-channel/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Phoenix InfoNews",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/phoenix-infonews.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/phoenix-infonews/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Polimer News",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/ytc/AIdro_lsZg5AuszjSq2zyrai2A2B7xUF_e24UZLtXgm5NuK3i1nS=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC8Z-VjXBtDJTvq6aqkIskPg/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Premier League TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/premier-league.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/premier-league/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Premier Sports 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/premier-sports-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/premier-sports-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Premier Sports 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/premier-sports-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/premier-sports-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Premiere TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://i.imgur.com/x2c70fv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/premiere-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Qello Concerts By Stingray TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/qello-concerts-by-stingray.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/qello-concerts-by-stingray/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Racing.com TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/racingcom-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/racingcom-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Radio 51 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/radio-51-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/radio-51-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Rally TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/rally-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/rally-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Real Madrid TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/real-madrid-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/real-madrid-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Red Bull TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/red-bull-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/red-bull-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Republic Bharat",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/zv_TrbiRA-GpTz7DyYGCX08_XUcPUuVD_lcApKXQU18y3FBilr7b6CAy4Y4fVyVeiXk_JcCrg3A=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC7wXt18f2iA3EDXeqAVuKng/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Reuters TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/reuters-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/reuters-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Right Now TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/right-now-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/right-now-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Rock Action TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/rock-action.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/rock-action/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Rock Entertainment TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/rock-entertainment.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/rock-entertainment/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Russia Today Documentary English TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/rt.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/rt-documentary/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Russia Today News English TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/rt.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/rt-news/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SBS Biz TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sbs-biz.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sbs-biz/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SBS FiL TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sbs-fil.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sbs-fil/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SBS Golf 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sbs-golf-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sbs-golf-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SBS Golf TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sbs-golf.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sbs-golf/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SBS M TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sbs-m.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sbs-m/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SBS Plus TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sbs-plus.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sbs-plus-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SBS TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sbs.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sbs/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SBS funE TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sbs-fune.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sbs-fune-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SCTV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sctv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sctv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SEA Today TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sea-today.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sea-today/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SPOTV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/spotv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/spotv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SPOTV2",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/spotv2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/spotv2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SSC 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ssc-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ssc-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SSC 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ssc-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ssc-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SSC 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ssc-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ssc-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SSC 4 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ssc-4.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ssc-4/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SSC 5 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ssc-5.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ssc-5/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SSC Extra 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ssc-extra-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ssc-extra-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SSC Extra 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ssc-extra-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ssc-extra-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SSC Extra 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ssc-extra-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ssc-extra-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "STAR TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/ytc/AIdro_mU_MCYydWCqhOqZRqoLAYIESGlccAinq4FhfhW5HTaTg=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCsFINj3y7SjBaeUxiSdRjlA/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SUN TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sun-tv-japan.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sun-tv-jp/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "San Marino RTV Sport",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/rtv-sport.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/rtv-sport/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sharjah Sports TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sharjah-sports.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sharjah-sports/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Show TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/vbmziYmRa6dOqKZNBOYZ4MCFme29USAiPrDcVAEapOt9STq3pWQvFetnn9TAIn12n3zGaS4_=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC9JMe_We017gYrRc7kZHgmg/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky A TV Japan",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-a-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-a-tv-jp/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky News",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCoMdktPbSTixAyNGwb-UYkQ/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports 24 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://i.imgur.com/gzALonN.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-24/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports 251 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-251.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-251/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Action TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-action.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-action/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Arena TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-arena.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-arena/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Bundesliga TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-bundesliga.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-bundesliga/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Calcio TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://i.imgur.com/o7vb3uJ.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-calcio/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Cricket TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-cricket.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-cricket/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports F1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-f1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/skysports-f1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Football TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-football.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-football/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Golf TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-golf.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-golf/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Main Event TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-main-event.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-main-event/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Max TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://i.imgur.com/rv7l8mm.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-max/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Mix TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-mix.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-mix/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports MotoGP TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-motogp.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-motogp/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports NBA TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-nba.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-nba/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports News TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-news.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-news/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Premier League TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-premier-league.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-premier-league/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Racing TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-racing.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-racing/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Tennis TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-tennis.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-tennis/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sky Sports Uno TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sky-sports-uno.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sky-sports-uno/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Soccer Channel TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/soccer-channel.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/soccer-channel/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony AATH TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-aath.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-aath/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony BBC Earth TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-bbc-earth.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-bbc-earth/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony Entertainment TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-entertainment.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-set/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony MAX 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-max-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-max-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony MAX TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-max.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-max/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony Marathi TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-marathi.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-marathi/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony PAL TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-pal.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-pal/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony PIX TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-pix.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-pix/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony SAB TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-sab.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-sab/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony Sports TEN 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-sports-ten-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-sports-ten-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony Sports TEN 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-sports-ten-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-sports-ten-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony Sports TEN 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-sports-ten-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-sports-ten-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony Sports TEN 4 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-sports-ten-4.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-sports-ten-4/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony Sports TEN 5 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-sports-ten-5.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-sports-ten-5/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony WAH TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-wah.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-wah/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sony YAY TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sony-yay.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sony-yay/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Space Shower TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/space-shower-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/space-shower-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sport 1+ HD TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sport-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sport-1-plus/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sport TV 1",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sport-tv-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sport-tv-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sport TV 2",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sport-tv-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sport-tv-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sport TV 3",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sport-tv-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sport-tv-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sport TV 4",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sport-tv-4.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sport-tv-4/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SportStars 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sportstars2-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sportstars2-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SportStars 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sportstars3-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sportstars3-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SportStars 4 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sportstars4-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sportstars4-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SportStars TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sportstars-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sportstars-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sports Live + (Plus) TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sports-live-plus.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sports-live-plus/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sports United",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/p_5TLstazYqNxI1IaQjgF0NTj_vuoCf4hsFPleUFsgxIb80785T-A_W_9GYln73YFJo1NPLlZu0=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCNyKhK1GI6CUbJ-BDtJ44DA/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Star Channel 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/star-channel-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/star-channel-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Star Channel 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/star-channel-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/star-channel-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Star Channel 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/star-channel-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/star-channel-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Star Sports 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/star-sports-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/star-sports-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Star Sports 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/star-sports-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/star-sports-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Star Sports 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/star-sports-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/star-sports-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Stingray DJAZZ TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/stingray-djazz.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/stingray-djazz/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Sukan RTM TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/sukan-rtm.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/sukan-rtm/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Super Drama TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/super-drama-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/super-drama-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Super Toons TV - Dessins Anim\u00e9s en Fran\u00e7ais",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/ytc/AIdro_m6LGQ3xFWIh_N9Xi7mk-l-ti7X_-6aIQF949f9NvdiGw=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCE6LObtIIyUymAejzHJ73GA/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Action TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-action.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-action/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Cricket TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-cricket.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-cricket/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Football TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-football.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-football/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Golf TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-golf.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-golf/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Grandstand TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-grandstand.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-grandstand/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport La Liga TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-laliga.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-laliga/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Maximo 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-maximo-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-maximo-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Motorsport TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-motorsport.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-motorsport/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport PSL TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-psl.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-psl/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Premier League TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-premier-league.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-premier-league/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Rugby TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-rugby.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-rugby/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Tennis TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-tennis.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-tennis/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Variety 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-variety-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-variety-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Variety 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-variety-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-variety-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Variety 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-variety-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-variety-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "SuperSport Variety 4 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/supersport-variety-4.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/supersport-variety-4/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Suria TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/suria-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/suria-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "S\u00d6ZC\u00dc Televizyonu",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/F5pNtD3BQMNKvoIyRbCXgTchYY401gpGvmRbuW2X7-HhjGoV7oRtBDQ6_qWNTtnhKWrgucyn=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCOulx_rep5O4i9y6AyDqVvw/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TBS Channel 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tbs-channel-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tbs-channel-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TBS Channel 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tbs-channel-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tbs-channel-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TBS NEWS DIG Powered by JNN",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC6AG81pAkf6Lbi_1VC5NmPA/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TBS News TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tbs-news-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tbs-news-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TBS TV Japan",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tbs-tv-japan.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tbs-tv-jp/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TBS TV USA",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tbs-tv-us.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tbs-tv-us/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TBS TV \ud55c\uad6d",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tbs-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tbs-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "THE K-POP TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/the-kpop.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/the-kpop/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TNA IMPACT! Wrestling TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tna-wrestling.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tna-wrestling/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TNT Sports 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tnt-sports-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tnt-sports-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TNT Sports 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tnt-sports-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tnt-sports-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TNT Sports 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tnt-sports-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tnt-sports-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TNT Sports 4 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tnt-sports-4.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tnt-sports-4/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TRT World",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/4FK_4c1SOUGyQXgvLZ7WDJXB-sE8vVntcrTI7PYCiYkjkftELWfuRiQW_-1w6_uPbSY6T6ij=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC7fWeaHhqgM4Ry-RMpM2YYw/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TSN 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tsn1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tsn1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TSN 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tsn2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tsn2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TSN 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tsn3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tsn3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TSN 4 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tsn4.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tsn4/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TSN 5 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tsn5.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tsn5/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TUDN TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tudn-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tudn-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV 2 Sport 1",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv2-sport-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv2-sport-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV 2 Sport Premium",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv2-sport-premium.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv2-sport-premium/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV Asahi",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv-asahi.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv-asahi/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV Chosun",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv-chosun.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv-chosun/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV Chosun 2",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv-chosun-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv-chosun-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV Okey",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv-okey.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv-okey/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV Osaka",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv-osaka-new.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv-osaka/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV Tokyo",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv-tokyo.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv-tokyo/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV1",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV2",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV5 Monde",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv5-monde.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv5-monde/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV5 Monde Style",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv5-monde-style.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv5-monde-style/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV5 News",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/Hz0ZWAZq64ouDXsGnGv9h1cG6wezsPuYowayytoEVchaYErA8k08WWfA5ox35jJ0hRgn4oBkHg=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCAR3h_9fLV82N2FH4cE4RKw/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV6",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv6.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv6/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV9 Bharatvarsh",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/szaq2QN1WM5Qk5dcSTayT3SZaXCVXcH0Am4CLLfRrb0uh0jrz4mhFvsrLmaE5hTiKL6_1M3lHA=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCOutOIcn_oho8pyVN3Ng-Pg/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV9 Marathi",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/6sAsc_Al0VOPwmG5ho1zFlIakY_6eCMJUzRrz88UYQZzZTJ1UePU5CUOvFFrhZf62WmrKLAIbw4=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCdOSeEq9Cs2Pco7OCn2_i5w/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TV9 Telugu Live",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/ytc/AIdro_kINV9J3l1Tq1kyefK7yNS0-IkKG3AONgiu6HmUc19JjMs=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCPXTXMecYqnRKNdqdVOGSFg/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TVB Jade",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvb-jade.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvb-jade/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TVB Magic",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvb-magic.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvb-magic/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TVB Vietnam",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvb-vietnam.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvb-vietnam/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TVBS Asia",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvbs-asia.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvbs-asia/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TVBS NEWS",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/jWe-dwGiiNd26ijxazm7ZTmbbObYF0e-HJntH2d_YtMM4M-vLKfoSb9Wj1NA6NOUk6KfsG2IsA=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC5nwNW4KdC0SzrhF9BXEYOQ/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TVRI",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvri.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvri/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TVRI Sport",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvri.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvri-sport/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TVRI World",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvri.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvri-world/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Takarazuka Sky Stage TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/takarazuka-sky-stage.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/takarazuka-sky-stage/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Tele-Asa Channel 1",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv-asahi-ch1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv-asahi-ch1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Tele-Asa Channel 2",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tv-asahi-ch2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tv-asahi-ch2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Tennis Channel TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tennis-channel.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tennis-channel/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Tetsudo Channel",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tetsudo-channel.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tetsudo-ch/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "The Cinema TV Japan",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/the-cinema-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/the-cinema-tv-jp/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "The Food Network",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/food-network.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/food-network/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "The Times and The Sunday Times",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/ytc/AIdro_mFui25IYiIGX_eiFHHA8qltVdRBEtvSKyWH8sl_tNwR3I=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCF-VP3b3oH0XASqsLI5rnLw/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Thrill TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/thrill.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/thrill/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Toei Channel",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/toei-channel.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/toei-channel/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Tokyo MX 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tokyo-mx.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tokyo-mx-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Tokyo MX 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tokyo-mx.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tokyo-mx-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Trace Sport Stars",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/trace-sport-stars.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/trace-sport-stars/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Trans7 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/trans7.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/trans7/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "TransTV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/transtv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/transtv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Travel Channel Japan",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tabi-channel.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tabi-channel/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "True Premier Football 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/true-premier-football-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/true-premier-football-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "True Premier Football 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/true-premier-football-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/true-premier-football-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "True Premier Football 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/true-premier-football-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/true-premier-football-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "True Sports 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/true-sports-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/true-sports-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "True Sports 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/true-sports-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/true-sports-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "True Sports 3 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/true-sports-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/true-sports-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "True Sports 4 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/true-sports-4.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/true-sports-4/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Tv9 Kannada",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/Th8LO-xWMef9cpQpPWT-poWxjKRklitRix8qQqlWaE8JPFEq_2NCyB44vSRRfXnB6-Zp0Klrxg=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC8dnBi4WUErqYQHZ4PfsLTg/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "USA Network TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/usa-network.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/usa-network/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "United Nations Web TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/un-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/un-web-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Usee Sports 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/usee-sports.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/usee-sports-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Usee Sports TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/usee-sports.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/usee-sports/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "V Sport 1 TV Norway",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/v-sport-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/v-sport-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "V Sport 1 TV Sweden",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/v-sport-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/v-sport-1-sw/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "V Sport 2 TV Norway",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/v-sport-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/v-sport-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "V Sport 3 TV Norway",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/v-sport-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/v-sport-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Vasantham TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/vasantham-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/vasantham-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Viaplay Sports 1 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/viaplay-sports-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/viaplay-sports-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Viaplay Sports 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/viaplay-sports-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/viaplay-sports-2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Viaplay Sports Xtra TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/viaplay-sports-xtra.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/viaplay-sports-xtra/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "WB Kids",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/rPoRRDAbbFQpeqCZFdndLgMRCm6KGS90QD0x7PlYaHoSXVG74ASmPwY8n3I1GVqD1lr8cIhKfA=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC9trsD1jCTXXtN3xIOIU8gg/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "WION",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/r2ZGA9E-wWJha_PIoNh8df3C_Y8uenieTqQ-Qj2-ibWQ6T__-mVxUvplOqoagFLsicskn-j3sw=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC_gUM8rL-Lrg6O3adPW9K1g/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "WION TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/wion-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/wion-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "WOWOW Cinema TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/wowow-cinema.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/wowow-cinema/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "WOWOW Live TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/wowow-live.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/wowow-live/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "WOWOW Plus TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/wowow-plus.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/wowow-plus/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "WOWOW Prime TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/wowow-prime.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/wowow-prime/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "WWE Network TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/wwe-network.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/wwe-network/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "WildEarth TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/wildearth-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/wildearth-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Willow Cricket TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/willow-cricket.jpg",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/willow-cricket/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Xing Kong TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/xing-kong-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/xing-kong-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "YAS TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/yas-tv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/yas-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "YTN 2 TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ytn2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ytn2/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "YTN Science TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ytn-science.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ytn-science/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "YTN TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ytn.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ytn/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "YTN dmb TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ytn-dmb.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ytn-dmb/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Yomiuri TV (YTV)",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/ytv.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/ytv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "Zee Bioskop TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/zee-bioskop.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/zee-bioskop/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "ZooMoo TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/zoomoo.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/zoomoo/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN SPORTS T\u00fcrkiye",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/vVYjvazj87IgQlOdmyhjTfNOwtvt9r5Okpst8YaST7D9k8owd-PGBd4shPdXn7Pdl5xO52MN=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCPe9vNjHF1kEExT5kHwc7aw/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 1 TV French",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-1-french.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-1-french/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 1 TV Germany",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-1-de/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 1 TV Indonesia",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-1/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 1 TV Thailand",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-1.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-1-th/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 2 TV French",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-2-french.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-2-french/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 2 TV Thailand",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-2.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-2-th/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 3 TV French",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-3-french.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-3-french/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 3 TV Indonesia",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-3/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 3 TV Thailand",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-3.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-3-th/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 4 TV Thailand",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-4.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-4-th/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 5 TV Thailand",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-5.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-5-th/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 6 TV Thailand",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-6.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-6-th/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports 7 TV Thailand",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-7.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-7-th/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports MENA English 1",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-1-english.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-1-english/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports MENA English 2",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-2-english.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-2-english/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports MENA English 3",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-3-english.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-3-english/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports XTRA En Espanol TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://i.imgur.com/eYLZplE.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-xtra-en-espanol/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "beIN Sports XTRA TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/bein-sports-xtra.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/bein-sports-xtra/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "euronews",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/t3slq37NYJRuP2UoEZDoPKyMClKyQULG8-j2DEfzL1XXcBvFpR6z6HD7rtc0wDn8Mqt0OtpU=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCSrZ3UV4jOidv8ppoVuvW9Q/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "kora plus",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/3eQQcEgnLGJKfYeaMBZ7sXTvAE_aljbEjH4SulX5dy-x2UAAWJmgZPwYmcZKQ_vF7uN7m3_C=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCoTREVo1yJwXXDY0TbTA4EQ/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "m2o TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/radio-m2o.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/m2o-tv/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "tvN Indonesia",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvn.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvn/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "tvN Movies Indonesia",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvn-movies.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvn-movies/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "tvN Movies \ud55c\uad6d",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvn-movies.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvn-movies-kr/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "tvN SPORTS TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://i.imgur.com/lpW0Rp9.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvn-sports/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "tvN Show",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvn-show.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvn-show/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "tvN \ud55c\uad6d",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvn.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvn-kr/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "tvOne",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://en.gdplayertv.to/assets/img/logo/tvone.png",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/tvone/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "\u4e09\u7acbLIVE\u65b0\u805e",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC2TuODJhC03pLgd6MpWP0iw/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "\u4e2d\u5929\u96fb\u8996",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/7TX5a0vWm4atw3f_uPwN651m0VOmnBSfP0sLEZb4sEha-laWJC2XpeAIVbUqPTum0NRAwuAn=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UC5l1Yto5oOIgRXlI4p4VKbw/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "\u65b0\u5510\u4eba\u96fb\u8996\u53f0",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/ytc/AIdro_lp10fcb6I4k44QZphbznSc6DLvYGvYaimspLmMYQo8Uw=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCdbvc-yJ4JQjNGTgFiJIZNA/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "\u65e5\u30c6\u30ecNEWS",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/tEtAip-sN2g4DN_-G0dO1kgb8tpL4hZkJW4LDIpKECLostodleuohg1cA3hE4pOS__jZi32iFw=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCuTAXTexrhetbOe3zgskJBQ/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "\u6771\u68ee\u65b0\u805e CH51",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/o3xThAlQzF4mXtPWuxwnKZz08Gcv40ZmS_kcanctpOlMaNc9tnqAKT_tsxHoJTuNbuPe5Fvm=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCR3asjvr_WAaxwJYEDV_Bfw/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "\u9cf3\u51f0\u885b\u8996PhoenixTV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/x3_2K7uOfrAKgoPE1o0vsUWTYoWDk3NjiIRFdm8iPQ16prR3kvGXbaBAWph52rH-TZQkJ5g4P9Y=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCd9dPMYgV9-IQaZG491TaRw/?embed=1",
+      "isSlow": 1
+  },
+  {
+      "tv-name": "\uc5f0\ud569\ub274\uc2a4TV",
+      "tv-loc": "",
+      "tv-lang": "",
+      "tv-type": "",
+      "tv-desc": "",
+      "tv-logo": "https://yt3.googleusercontent.com/ytc/AIdro_lFb5eklmaPCACW8znK9zVoqkvVGfi8rxjtqeLPuvVv2HA=s176-c-k-c0x00ffffff-no-rj",
+      "tv-streaming": "https://en.gdplayertv.to/live-tv/UCTHCOPwqNfZ0uiKOvFyhGwg/?embed=1",
+      "isSlow": 1
+  }
   ]}
 ]
