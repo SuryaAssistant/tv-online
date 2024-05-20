@@ -91,10 +91,21 @@ function play(channelID){
 function playNext(){
   var gotoChannel = nowPlaying + 1;
   // Check if 
-  if(gotoChannel > listLength){
-    gotoChannel = 0
+  if(gotoChannel > listLength - 1){
+    gotoChannel = 0;
   }
 
   //play
+  play(gotoChannel);
+}
+
+function playPrev(){
+  var gotoChannel = nowPlaying - 1;
+  console.log(gotoChannel);
+
+  if(gotoChannel < 0){
+    gotoChannel = listLength - 1;
+  }
+
   play(gotoChannel);
 }
